@@ -1,0 +1,1166 @@
+{
+  "Uttagsdatum": "2020-01-29T06:22:17.1366997+01:00",
+  "Fotnot": "",
+  "Kommuner": [
+    {
+      "Kommunkod": "1440",
+      "Namn": "Ale"
+    },
+    {
+      "Kommunkod": "1489",
+      "Namn": "Alingsås"
+    },
+    {
+      "Kommunkod": "0764",
+      "Namn": "Alvesta"
+    },
+    {
+      "Kommunkod": "0604",
+      "Namn": "Aneby"
+    },
+    {
+      "Kommunkod": "1984",
+      "Namn": "Arboga"
+    },
+    {
+      "Kommunkod": "2506",
+      "Namn": "Arjeplog"
+    },
+    {
+      "Kommunkod": "2505",
+      "Namn": "Arvidsjaur"
+    },
+    {
+      "Kommunkod": "1784",
+      "Namn": "Arvika"
+    },
+    {
+      "Kommunkod": "1882",
+      "Namn": "Askersund"
+    },
+    {
+      "Kommunkod": "2084",
+      "Namn": "Avesta"
+    },
+    {
+      "Kommunkod": "1460",
+      "Namn": "Bengtsfors"
+    },
+    {
+      "Kommunkod": "2326",
+      "Namn": "Berg"
+    },
+    {
+      "Kommunkod": "2403",
+      "Namn": "Bjurholm"
+    },
+    {
+      "Kommunkod": "1260",
+      "Namn": "Bjuv"
+    },
+    {
+      "Kommunkod": "2582",
+      "Namn": "Boden"
+    },
+    {
+      "Kommunkod": "1443",
+      "Namn": "Bollebygd"
+    },
+    {
+      "Kommunkod": "2183",
+      "Namn": "Bollnäs"
+    },
+    {
+      "Kommunkod": "0885",
+      "Namn": "Borgholm"
+    },
+    {
+      "Kommunkod": "2081",
+      "Namn": "Borlänge"
+    },
+    {
+      "Kommunkod": "1490",
+      "Namn": "Borås"
+    },
+    {
+      "Kommunkod": "0127",
+      "Namn": "Botkyrka"
+    },
+    {
+      "Kommunkod": "0560",
+      "Namn": "Boxholm"
+    },
+    {
+      "Kommunkod": "1272",
+      "Namn": "Bromölla"
+    },
+    {
+      "Kommunkod": "2305",
+      "Namn": "Bräcke"
+    },
+    {
+      "Kommunkod": "1231",
+      "Namn": "Burlöv"
+    },
+    {
+      "Kommunkod": "1278",
+      "Namn": "Båstad"
+    },
+    {
+      "Kommunkod": "1438",
+      "Namn": "Dals-Ed"
+    },
+    {
+      "Kommunkod": "0162",
+      "Namn": "Danderyd"
+    },
+    {
+      "Kommunkod": "1862",
+      "Namn": "Degerfors"
+    },
+    {
+      "Kommunkod": "2425",
+      "Namn": "Dorotea"
+    },
+    {
+      "Kommunkod": "1730",
+      "Namn": "Eda"
+    },
+    {
+      "Kommunkod": "0125",
+      "Namn": "Ekerö"
+    },
+    {
+      "Kommunkod": "0686",
+      "Namn": "Eksjö"
+    },
+    {
+      "Kommunkod": "0862",
+      "Namn": "Emmaboda"
+    },
+    {
+      "Kommunkod": "0381",
+      "Namn": "Enköping"
+    },
+    {
+      "Kommunkod": "0484",
+      "Namn": "Eskilstuna"
+    },
+    {
+      "Kommunkod": "1285",
+      "Namn": "Eslöv"
+    },
+    {
+      "Kommunkod": "1445",
+      "Namn": "Essunga"
+    },
+    {
+      "Kommunkod": "1982",
+      "Namn": "Fagersta"
+    },
+    {
+      "Kommunkod": "1382",
+      "Namn": "Falkenberg"
+    },
+    {
+      "Kommunkod": "1499",
+      "Namn": "Falköping"
+    },
+    {
+      "Kommunkod": "2080",
+      "Namn": "Falun"
+    },
+    {
+      "Kommunkod": "1782",
+      "Namn": "Filipstad"
+    },
+    {
+      "Kommunkod": "0562",
+      "Namn": "Finspång"
+    },
+    {
+      "Kommunkod": "0482",
+      "Namn": "Flen"
+    },
+    {
+      "Kommunkod": "1763",
+      "Namn": "Forshaga"
+    },
+    {
+      "Kommunkod": "1439",
+      "Namn": "Färgelanda"
+    },
+    {
+      "Kommunkod": "2026",
+      "Namn": "Gagnef"
+    },
+    {
+      "Kommunkod": "0662",
+      "Namn": "Gislaved"
+    },
+    {
+      "Kommunkod": "0461",
+      "Namn": "Gnesta"
+    },
+    {
+      "Kommunkod": "0617",
+      "Namn": "Gnosjö"
+    },
+    {
+      "Kommunkod": "0980",
+      "Namn": "Gotland"
+    },
+    {
+      "Kommunkod": "1764",
+      "Namn": "Grums"
+    },
+    {
+      "Kommunkod": "1444",
+      "Namn": "Grästorp"
+    },
+    {
+      "Kommunkod": "1447",
+      "Namn": "Gullspång"
+    },
+    {
+      "Kommunkod": "2523",
+      "Namn": "Gällivare"
+    },
+    {
+      "Kommunkod": "2180",
+      "Namn": "Gävle"
+    },
+    {
+      "Kommunkod": "1480",
+      "Namn": "Göteborg"
+    },
+    {
+      "Kommunkod": "1471",
+      "Namn": "Götene"
+    },
+    {
+      "Kommunkod": "0643",
+      "Namn": "Habo"
+    },
+    {
+      "Kommunkod": "1783",
+      "Namn": "Hagfors"
+    },
+    {
+      "Kommunkod": "1861",
+      "Namn": "Hallsberg"
+    },
+    {
+      "Kommunkod": "1961",
+      "Namn": "Hallstahammar"
+    },
+    {
+      "Kommunkod": "1380",
+      "Namn": "Halmstad"
+    },
+    {
+      "Kommunkod": "1761",
+      "Namn": "Hammarö"
+    },
+    {
+      "Kommunkod": "0136",
+      "Namn": "Haninge"
+    },
+    {
+      "Kommunkod": "2583",
+      "Namn": "Haparanda"
+    },
+    {
+      "Kommunkod": "0331",
+      "Namn": "Heby"
+    },
+    {
+      "Kommunkod": "2083",
+      "Namn": "Hedemora"
+    },
+    {
+      "Kommunkod": "1283",
+      "Namn": "Helsingborg"
+    },
+    {
+      "Kommunkod": "1466",
+      "Namn": "Herrljunga"
+    },
+    {
+      "Kommunkod": "1497",
+      "Namn": "Hjo"
+    },
+    {
+      "Kommunkod": "2104",
+      "Namn": "Hofors"
+    },
+    {
+      "Kommunkod": "0126",
+      "Namn": "Huddinge"
+    },
+    {
+      "Kommunkod": "2184",
+      "Namn": "Hudiksvall"
+    },
+    {
+      "Kommunkod": "0860",
+      "Namn": "Hultsfred"
+    },
+    {
+      "Kommunkod": "1315",
+      "Namn": "Hylte"
+    },
+    {
+      "Kommunkod": "0305",
+      "Namn": "Håbo"
+    },
+    {
+      "Kommunkod": "1863",
+      "Namn": "Hällefors"
+    },
+    {
+      "Kommunkod": "2361",
+      "Namn": "Härjedalen"
+    },
+    {
+      "Kommunkod": "2280",
+      "Namn": "Härnösand"
+    },
+    {
+      "Kommunkod": "1401",
+      "Namn": "Härryda"
+    },
+    {
+      "Kommunkod": "1293",
+      "Namn": "Hässleholm"
+    },
+    {
+      "Kommunkod": "1284",
+      "Namn": "Höganäs"
+    },
+    {
+      "Kommunkod": "0821",
+      "Namn": "Högsby"
+    },
+    {
+      "Kommunkod": "1266",
+      "Namn": "Hörby"
+    },
+    {
+      "Kommunkod": "1267",
+      "Namn": "Höör"
+    },
+    {
+      "Kommunkod": "2510",
+      "Namn": "Jokkmokk"
+    },
+    {
+      "Kommunkod": "0123",
+      "Namn": "Järfälla"
+    },
+    {
+      "Kommunkod": "0680",
+      "Namn": "Jönköping"
+    },
+    {
+      "Kommunkod": "2514",
+      "Namn": "Kalix"
+    },
+    {
+      "Kommunkod": "0880",
+      "Namn": "Kalmar"
+    },
+    {
+      "Kommunkod": "1446",
+      "Namn": "Karlsborg"
+    },
+    {
+      "Kommunkod": "1082",
+      "Namn": "Karlshamn"
+    },
+    {
+      "Kommunkod": "1883",
+      "Namn": "Karlskoga"
+    },
+    {
+      "Kommunkod": "1080",
+      "Namn": "Karlskrona"
+    },
+    {
+      "Kommunkod": "1780",
+      "Namn": "Karlstad"
+    },
+    {
+      "Kommunkod": "0483",
+      "Namn": "Katrineholm"
+    },
+    {
+      "Kommunkod": "1715",
+      "Namn": "Kil"
+    },
+    {
+      "Kommunkod": "0513",
+      "Namn": "Kinda"
+    },
+    {
+      "Kommunkod": "2584",
+      "Namn": "Kiruna"
+    },
+    {
+      "Kommunkod": "1276",
+      "Namn": "Klippan"
+    },
+    {
+      "Kommunkod": "0330",
+      "Namn": "Knivsta"
+    },
+    {
+      "Kommunkod": "2282",
+      "Namn": "Kramfors"
+    },
+    {
+      "Kommunkod": "1290",
+      "Namn": "Kristianstad"
+    },
+    {
+      "Kommunkod": "1781",
+      "Namn": "Kristinehamn"
+    },
+    {
+      "Kommunkod": "2309",
+      "Namn": "Krokom"
+    },
+    {
+      "Kommunkod": "1881",
+      "Namn": "Kumla"
+    },
+    {
+      "Kommunkod": "1384",
+      "Namn": "Kungsbacka"
+    },
+    {
+      "Kommunkod": "1960",
+      "Namn": "Kungsör"
+    },
+    {
+      "Kommunkod": "1482",
+      "Namn": "Kungälv"
+    },
+    {
+      "Kommunkod": "1261",
+      "Namn": "Kävlinge"
+    },
+    {
+      "Kommunkod": "1983",
+      "Namn": "Köping"
+    },
+    {
+      "Kommunkod": "1381",
+      "Namn": "Laholm"
+    },
+    {
+      "Kommunkod": "1282",
+      "Namn": "Landskrona"
+    },
+    {
+      "Kommunkod": "1860",
+      "Namn": "Laxå"
+    },
+    {
+      "Kommunkod": "1814",
+      "Namn": "Lekeberg"
+    },
+    {
+      "Kommunkod": "2029",
+      "Namn": "Leksand"
+    },
+    {
+      "Kommunkod": "1441",
+      "Namn": "Lerum"
+    },
+    {
+      "Kommunkod": "0761",
+      "Namn": "Lessebo"
+    },
+    {
+      "Kommunkod": "0186",
+      "Namn": "Lidingö"
+    },
+    {
+      "Kommunkod": "1494",
+      "Namn": "Lidköping"
+    },
+    {
+      "Kommunkod": "1462",
+      "Namn": "Lilla Edet"
+    },
+    {
+      "Kommunkod": "1885",
+      "Namn": "Lindesberg"
+    },
+    {
+      "Kommunkod": "0580",
+      "Namn": "Linköping"
+    },
+    {
+      "Kommunkod": "0781",
+      "Namn": "Ljungby"
+    },
+    {
+      "Kommunkod": "2161",
+      "Namn": "Ljusdal"
+    },
+    {
+      "Kommunkod": "1864",
+      "Namn": "Ljusnarsberg"
+    },
+    {
+      "Kommunkod": "1262",
+      "Namn": "Lomma"
+    },
+    {
+      "Kommunkod": "2085",
+      "Namn": "Ludvika"
+    },
+    {
+      "Kommunkod": "2580",
+      "Namn": "Luleå"
+    },
+    {
+      "Kommunkod": "1281",
+      "Namn": "Lund"
+    },
+    {
+      "Kommunkod": "2481",
+      "Namn": "Lycksele"
+    },
+    {
+      "Kommunkod": "1484",
+      "Namn": "Lysekil"
+    },
+    {
+      "Kommunkod": "1280",
+      "Namn": "Malmö"
+    },
+    {
+      "Kommunkod": "2023",
+      "Namn": "Malung-Sälen"
+    },
+    {
+      "Kommunkod": "2418",
+      "Namn": "Malå"
+    },
+    {
+      "Kommunkod": "1493",
+      "Namn": "Mariestad"
+    },
+    {
+      "Kommunkod": "1463",
+      "Namn": "Mark"
+    },
+    {
+      "Kommunkod": "0767",
+      "Namn": "Markaryd"
+    },
+    {
+      "Kommunkod": "1461",
+      "Namn": "Mellerud"
+    },
+    {
+      "Kommunkod": "0586",
+      "Namn": "Mjölby"
+    },
+    {
+      "Kommunkod": "2062",
+      "Namn": "Mora"
+    },
+    {
+      "Kommunkod": "0583",
+      "Namn": "Motala"
+    },
+    {
+      "Kommunkod": "0642",
+      "Namn": "Mullsjö"
+    },
+    {
+      "Kommunkod": "1430",
+      "Namn": "Munkedal"
+    },
+    {
+      "Kommunkod": "1762",
+      "Namn": "Munkfors"
+    },
+    {
+      "Kommunkod": "1481",
+      "Namn": "Mölndal"
+    },
+    {
+      "Kommunkod": "0861",
+      "Namn": "Mönsterås"
+    },
+    {
+      "Kommunkod": "0840",
+      "Namn": "Mörbylånga"
+    },
+    {
+      "Kommunkod": "0182",
+      "Namn": "Nacka"
+    },
+    {
+      "Kommunkod": "1884",
+      "Namn": "Nora"
+    },
+    {
+      "Kommunkod": "1962",
+      "Namn": "Norberg"
+    },
+    {
+      "Kommunkod": "2132",
+      "Namn": "Nordanstig"
+    },
+    {
+      "Kommunkod": "2401",
+      "Namn": "Nordmaling"
+    },
+    {
+      "Kommunkod": "0581",
+      "Namn": "Norrköping"
+    },
+    {
+      "Kommunkod": "0188",
+      "Namn": "Norrtälje"
+    },
+    {
+      "Kommunkod": "2417",
+      "Namn": "Norsjö"
+    },
+    {
+      "Kommunkod": "0881",
+      "Namn": "Nybro"
+    },
+    {
+      "Kommunkod": "0140",
+      "Namn": "Nykvarn"
+    },
+    {
+      "Kommunkod": "0480",
+      "Namn": "Nyköping"
+    },
+    {
+      "Kommunkod": "0192",
+      "Namn": "Nynäshamn"
+    },
+    {
+      "Kommunkod": "0682",
+      "Namn": "Nässjö"
+    },
+    {
+      "Kommunkod": "2101",
+      "Namn": "Ockelbo"
+    },
+    {
+      "Kommunkod": "1060",
+      "Namn": "Olofström"
+    },
+    {
+      "Kommunkod": "2034",
+      "Namn": "Orsa"
+    },
+    {
+      "Kommunkod": "1421",
+      "Namn": "Orust"
+    },
+    {
+      "Kommunkod": "1273",
+      "Namn": "Osby"
+    },
+    {
+      "Kommunkod": "0882",
+      "Namn": "Oskarshamn"
+    },
+    {
+      "Kommunkod": "2121",
+      "Namn": "Ovanåker"
+    },
+    {
+      "Kommunkod": "0481",
+      "Namn": "Oxelösund"
+    },
+    {
+      "Kommunkod": "2521",
+      "Namn": "Pajala"
+    },
+    {
+      "Kommunkod": "1402",
+      "Namn": "Partille"
+    },
+    {
+      "Kommunkod": "1275",
+      "Namn": "Perstorp"
+    },
+    {
+      "Kommunkod": "2581",
+      "Namn": "Piteå"
+    },
+    {
+      "Kommunkod": "2303",
+      "Namn": "Ragunda"
+    },
+    {
+      "Kommunkod": "2409",
+      "Namn": "Robertsfors"
+    },
+    {
+      "Kommunkod": "1081",
+      "Namn": "Ronneby"
+    },
+    {
+      "Kommunkod": "2031",
+      "Namn": "Rättvik"
+    },
+    {
+      "Kommunkod": "1981",
+      "Namn": "Sala"
+    },
+    {
+      "Kommunkod": "0128",
+      "Namn": "Salem"
+    },
+    {
+      "Kommunkod": "2181",
+      "Namn": "Sandviken"
+    },
+    {
+      "Kommunkod": "0191",
+      "Namn": "Sigtuna"
+    },
+    {
+      "Kommunkod": "1291",
+      "Namn": "Simrishamn"
+    },
+    {
+      "Kommunkod": "1265",
+      "Namn": "Sjöbo"
+    },
+    {
+      "Kommunkod": "1495",
+      "Namn": "Skara"
+    },
+    {
+      "Kommunkod": "2482",
+      "Namn": "Skellefteå"
+    },
+    {
+      "Kommunkod": "1904",
+      "Namn": "Skinnskatteberg"
+    },
+    {
+      "Kommunkod": "1264",
+      "Namn": "Skurup"
+    },
+    {
+      "Kommunkod": "1496",
+      "Namn": "Skövde"
+    },
+    {
+      "Kommunkod": "2061",
+      "Namn": "Smedjebacken"
+    },
+    {
+      "Kommunkod": "2283",
+      "Namn": "Sollefteå"
+    },
+    {
+      "Kommunkod": "0163",
+      "Namn": "Sollentuna"
+    },
+    {
+      "Kommunkod": "0184",
+      "Namn": "Solna"
+    },
+    {
+      "Kommunkod": "2422",
+      "Namn": "Sorsele"
+    },
+    {
+      "Kommunkod": "1427",
+      "Namn": "Sotenäs"
+    },
+    {
+      "Kommunkod": "1230",
+      "Namn": "Staffanstorp"
+    },
+    {
+      "Kommunkod": "1415",
+      "Namn": "Stenungsund"
+    },
+    {
+      "Kommunkod": "0180",
+      "Namn": "Stockholm"
+    },
+    {
+      "Kommunkod": "1760",
+      "Namn": "Storfors"
+    },
+    {
+      "Kommunkod": "2421",
+      "Namn": "Storuman"
+    },
+    {
+      "Kommunkod": "0486",
+      "Namn": "Strängnäs"
+    },
+    {
+      "Kommunkod": "1486",
+      "Namn": "Strömstad"
+    },
+    {
+      "Kommunkod": "2313",
+      "Namn": "Strömsund"
+    },
+    {
+      "Kommunkod": "0183",
+      "Namn": "Sundbyberg"
+    },
+    {
+      "Kommunkod": "2281",
+      "Namn": "Sundsvall"
+    },
+    {
+      "Kommunkod": "1766",
+      "Namn": "Sunne"
+    },
+    {
+      "Kommunkod": "1907",
+      "Namn": "Surahammar"
+    },
+    {
+      "Kommunkod": "1214",
+      "Namn": "Svalöv"
+    },
+    {
+      "Kommunkod": "1263",
+      "Namn": "Svedala"
+    },
+    {
+      "Kommunkod": "1465",
+      "Namn": "Svenljunga"
+    },
+    {
+      "Kommunkod": "1785",
+      "Namn": "Säffle"
+    },
+    {
+      "Kommunkod": "2082",
+      "Namn": "Säter"
+    },
+    {
+      "Kommunkod": "0684",
+      "Namn": "Sävsjö"
+    },
+    {
+      "Kommunkod": "2182",
+      "Namn": "Söderhamn"
+    },
+    {
+      "Kommunkod": "0582",
+      "Namn": "Söderköping"
+    },
+    {
+      "Kommunkod": "0181",
+      "Namn": "Södertälje"
+    },
+    {
+      "Kommunkod": "1083",
+      "Namn": "Sölvesborg"
+    },
+    {
+      "Kommunkod": "1435",
+      "Namn": "Tanum"
+    },
+    {
+      "Kommunkod": "1472",
+      "Namn": "Tibro"
+    },
+    {
+      "Kommunkod": "1498",
+      "Namn": "Tidaholm"
+    },
+    {
+      "Kommunkod": "0360",
+      "Namn": "Tierp"
+    },
+    {
+      "Kommunkod": "2262",
+      "Namn": "Timrå"
+    },
+    {
+      "Kommunkod": "0763",
+      "Namn": "Tingsryd"
+    },
+    {
+      "Kommunkod": "1419",
+      "Namn": "Tjörn"
+    },
+    {
+      "Kommunkod": "1270",
+      "Namn": "Tomelilla"
+    },
+    {
+      "Kommunkod": "1737",
+      "Namn": "Torsby"
+    },
+    {
+      "Kommunkod": "0834",
+      "Namn": "Torsås"
+    },
+    {
+      "Kommunkod": "1452",
+      "Namn": "Tranemo"
+    },
+    {
+      "Kommunkod": "0687",
+      "Namn": "Tranås"
+    },
+    {
+      "Kommunkod": "1287",
+      "Namn": "Trelleborg"
+    },
+    {
+      "Kommunkod": "1488",
+      "Namn": "Trollhättan"
+    },
+    {
+      "Kommunkod": "0488",
+      "Namn": "Trosa"
+    },
+    {
+      "Kommunkod": "0138",
+      "Namn": "Tyresö"
+    },
+    {
+      "Kommunkod": "0160",
+      "Namn": "Täby"
+    },
+    {
+      "Kommunkod": "1473",
+      "Namn": "Töreboda"
+    },
+    {
+      "Kommunkod": "1485",
+      "Namn": "Uddevalla"
+    },
+    {
+      "Kommunkod": "1491",
+      "Namn": "Ulricehamn"
+    },
+    {
+      "Kommunkod": "2480",
+      "Namn": "Umeå"
+    },
+    {
+      "Kommunkod": "0114",
+      "Namn": "Upplands Väsby"
+    },
+    {
+      "Kommunkod": "0139",
+      "Namn": "Upplands-Bro"
+    },
+    {
+      "Kommunkod": "0380",
+      "Namn": "Uppsala"
+    },
+    {
+      "Kommunkod": "0760",
+      "Namn": "Uppvidinge"
+    },
+    {
+      "Kommunkod": "0584",
+      "Namn": "Vadstena"
+    },
+    {
+      "Kommunkod": "0665",
+      "Namn": "Vaggeryd"
+    },
+    {
+      "Kommunkod": "0563",
+      "Namn": "Valdemarsvik"
+    },
+    {
+      "Kommunkod": "0115",
+      "Namn": "Vallentuna"
+    },
+    {
+      "Kommunkod": "2021",
+      "Namn": "Vansbro"
+    },
+    {
+      "Kommunkod": "1470",
+      "Namn": "Vara"
+    },
+    {
+      "Kommunkod": "1383",
+      "Namn": "Varberg"
+    },
+    {
+      "Kommunkod": "0187",
+      "Namn": "Vaxholm"
+    },
+    {
+      "Kommunkod": "1233",
+      "Namn": "Vellinge"
+    },
+    {
+      "Kommunkod": "0685",
+      "Namn": "Vetlanda"
+    },
+    {
+      "Kommunkod": "2462",
+      "Namn": "Vilhelmina"
+    },
+    {
+      "Kommunkod": "0884",
+      "Namn": "Vimmerby"
+    },
+    {
+      "Kommunkod": "2404",
+      "Namn": "Vindeln"
+    },
+    {
+      "Kommunkod": "0428",
+      "Namn": "Vingåker"
+    },
+    {
+      "Kommunkod": "1442",
+      "Namn": "Vårgårda"
+    },
+    {
+      "Kommunkod": "1487",
+      "Namn": "Vänersborg"
+    },
+    {
+      "Kommunkod": "2460",
+      "Namn": "Vännäs"
+    },
+    {
+      "Kommunkod": "0120",
+      "Namn": "Värmdö"
+    },
+    {
+      "Kommunkod": "0683",
+      "Namn": "Värnamo"
+    },
+    {
+      "Kommunkod": "0883",
+      "Namn": "Västervik"
+    },
+    {
+      "Kommunkod": "1980",
+      "Namn": "Västerås"
+    },
+    {
+      "Kommunkod": "0780",
+      "Namn": "Växjö"
+    },
+    {
+      "Kommunkod": "0512",
+      "Namn": "Ydre"
+    },
+    {
+      "Kommunkod": "1286",
+      "Namn": "Ystad"
+    },
+    {
+      "Kommunkod": "1492",
+      "Namn": "Åmål"
+    },
+    {
+      "Kommunkod": "2260",
+      "Namn": "Ånge"
+    },
+    {
+      "Kommunkod": "2321",
+      "Namn": "Åre"
+    },
+    {
+      "Kommunkod": "1765",
+      "Namn": "Årjäng"
+    },
+    {
+      "Kommunkod": "2463",
+      "Namn": "Åsele"
+    },
+    {
+      "Kommunkod": "1277",
+      "Namn": "Åstorp"
+    },
+    {
+      "Kommunkod": "0561",
+      "Namn": "Åtvidaberg"
+    },
+    {
+      "Kommunkod": "0765",
+      "Namn": "Älmhult"
+    },
+    {
+      "Kommunkod": "2039",
+      "Namn": "Älvdalen"
+    },
+    {
+      "Kommunkod": "0319",
+      "Namn": "Älvkarleby"
+    },
+    {
+      "Kommunkod": "2560",
+      "Namn": "Älvsbyn"
+    },
+    {
+      "Kommunkod": "1292",
+      "Namn": "Ängelholm"
+    },
+    {
+      "Kommunkod": "1407",
+      "Namn": "Öckerö"
+    },
+    {
+      "Kommunkod": "0509",
+      "Namn": "Ödeshög"
+    },
+    {
+      "Kommunkod": "1880",
+      "Namn": "Örebro"
+    },
+    {
+      "Kommunkod": "1257",
+      "Namn": "Örkelljunga"
+    },
+    {
+      "Kommunkod": "2284",
+      "Namn": "Örnsköldsvik"
+    },
+    {
+      "Kommunkod": "2380",
+      "Namn": "Östersund"
+    },
+    {
+      "Kommunkod": "0117",
+      "Namn": "Österåker"
+    },
+    {
+      "Kommunkod": "0382",
+      "Namn": "Östhammar"
+    },
+    {
+      "Kommunkod": "1256",
+      "Namn": "Östra Göinge"
+    },
+    {
+      "Kommunkod": "2513",
+      "Namn": "Överkalix"
+    },
+    {
+      "Kommunkod": "2518",
+      "Namn": "Övertorneå"
+    }
+  ]
+}
