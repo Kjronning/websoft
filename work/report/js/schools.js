@@ -67,7 +67,7 @@ const resetSchoolList = function(){
 };
 resetSchoolList();
 
-const getSchoolsButton = document.getElementById("getSchoolsButton");
+const getSchoolsButton = document.getElementById("schoolButton");
 
 
 getSchoolsButton.onclick(loadSchoolsToList);
