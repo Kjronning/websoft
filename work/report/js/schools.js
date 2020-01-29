@@ -4,30 +4,38 @@ const getFetchURI = function(municipalityCode){
 };
 
 const fetchMunicipalities = function(){
-    fetch(fetchBaseURI).then((data)=> {
+    fetch('data/kommun.json').then((response) => {
+        return response.json();
+    }).then((responseJson)=> {
         let option;
-        console.log("municipality length: " + data.length);
-        for (let i=0; i<data.length; i++){
+        let data = responseJson.Kommuner;
+        data.forEach((municipality)=> {
             option = document.createElement('option');
-            option.text = data.namn;
-            option.value = data.kommunkod;
-            municipalityList.add(option);
-        }})
+            option.text = municipality.Namn;
+            option.value = municipality.Kommunkod;
+            municipalityList.add(option)
+        });
+    });
 };
 
 const populateTable =  function(municipalityCode){
-    fetch(getFetchURI(municipalityCode)).then((data) =>
-    {
+    let url = 'data/'+municipalityCode+'.json';
+    console.log(url);
+    fetch(url).then((response)=>{
+        return response.json();
+    }).then((data) => {
+        console.log(data);
         table.innerHTML = "";
-        for (let i=0;data.length;i++){
-            let row = table.insertRow(i);
+        let counter = 0;
+        data.Skolenheter.forEach((school)=> {
+            let row = table.insertRow(counter++);
             let schoolNameCell = row.insertCell(0);
             let schoolCodeCell = row.insertCell(1);
             let PeOrgNrCell = row.insertCell(2);
-            schoolCodeCell.innerHTML = data[i].Skolenhetskod;
-            schoolNameCell.innerHTML = data[i].Skolenhetsnamn;
-            PeOrgNrCell.innerHTML = data[i].PeOrgNr;
-        }
+            schoolCodeCell.innerHTML = school.Skolenhetskod;
+            schoolNameCell.innerHTML = school.Skolenhetsnamn;
+            PeOrgNrCell.innerHTML = school.PeOrgNr;
+        });
     })
 };
 
