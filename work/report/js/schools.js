@@ -41,11 +41,13 @@ municipalityList.add(defaultOption);
 municipalityList.selectedIndex = 0;
 let municipalityData = fetchMunicipalities();
 let municipalityOption;
+console.log("municipality length: " + municipalityData.length);
 for (let i=0;i<municipalityData.length;i++){
     municipalityOption = document.createElement('option');
     municipalityOption.text = municipalityData.namn;
     municipalityOption.value = municipalityData.kommunkod;
     municipalityList.add(municipalityOption);
+    console.log(municipalityOption.text);
 }
 municipalityList.addEventListener("change", (e) => {
     if(e.selectedIndex !== 0){
