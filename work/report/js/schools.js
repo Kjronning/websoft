@@ -18,15 +18,17 @@ const fetchMunicipalities = function(){
 const populateTable =  function(municipalityCode){
     fetch(getFetchURI(municipalityCode)).then((data) =>
     {
-    for (let i=0;data.length;i++){
-        let row = table.insertRow(i);
-        let schoolCodeCell = row.insertCell(0);
-        let schoolNameCell = row.insertCell(1);
-        let PeOrgNrCell = row.insertCell(2);
-        schoolCodeCell.innerHTML = data[i].Skolenhetskod;
-        schoolNameCell.innerHTML = data[i].Skolenhetsnamn;
-        PeOrgNrCell.innerHTML = data[i].PeOrgNr;
-    }})
+        table.innerHTML = "";
+        for (let i=0;data.length;i++){
+            let row = table.insertRow(i);
+            let schoolNameCell = row.insertCell(0);
+            let schoolCodeCell = row.insertCell(1);
+            let PeOrgNrCell = row.insertCell(2);
+            schoolCodeCell.innerHTML = data[i].Skolenhetskod;
+            schoolNameCell.innerHTML = data[i].Skolenhetsnamn;
+            PeOrgNrCell.innerHTML = data[i].PeOrgNr;
+        }
+    })
 };
 
 const fetchBaseURI = "https://api.scb.se/UF0109/v2/skolenhetsregister/sv/kommun/";
