@@ -1,10 +1,11 @@
 
-const getFetchURI = function(municipalityCode){
-    return fetchBaseURI+municipalityCode;
+const getFetchUrl = function(municipalityCode){
+    //return municipalityCode === "kommun" ? fetchBaseUrl : fetchBaseUrl+municipalityCode; //Uncomment this line when deploying to fetch from the API
+    return 'data/'+municipalityCode+'.json'; //comment this line when deploying to fetch from the API
 };
 
 const fetchMunicipalities = function(){
-    fetch('data/kommun.json').then((response) => {
+    fetch(getFetchUrl("kommun")).then((response) => {
         return response.json();
     }).then((responseJson)=> {
         let option;
@@ -19,7 +20,7 @@ const fetchMunicipalities = function(){
 };
 
 const populateTable =  function(municipalityCode){
-    let url = 'data/'+municipalityCode+'.json';
+    let url = getFetchUrl(municipalityCode);
     console.log(url);
     fetch(url).then((response)=>{
         return response.json();
@@ -39,8 +40,12 @@ const populateTable =  function(municipalityCode){
     })
 };
 
-const fetchBaseURI = "https://api.scb.se/UF0109/v2/skolenhetsregister/sv/kommun/";
 
+
+
+
+
+const fetchBaseUrl = "https://api.scb.se/UF0109/v2/skolenhetsregister/sv/kommun/";
 const table = document.getElementById("table");
 const municipalityList = document.getElementById("municipalityList");
 municipalityList.length = 0;
