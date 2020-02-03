@@ -4,32 +4,51 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="css/schools.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 <header>
     <nav>
-        <a href="me.html">Me</a> |
-        <a href="report.html">Report</a> |
-        <a href="about.html">About</a>
-        <a href="schools.html">Schools</a>
-        <a href="flags.html">Flags</a>
+        <ul class="nav_list">
+            <li class="nav_item">
+                <a href="me.html">Me</a>
+            </li>
+            <li class="nav_item">
+                <a href="report.html">Report</a>
+            </li>
+            <li class="nav_item">
+                <a href="about.html">About</a>
+            </li>
+            <li class="nav_item">
+                <a href="schools.html">Schools</a>
+            </li>
+            <li class="nav_item">
+                <a href="flags.html">Flags</a>
+            </li>
+        </ul>
     </nav>
 </header>
 
-<select id="municipalityList"></select>
-<br>
-<div id="container" class="container">
-    <table id="table" class="normal">
-        <thead>
-        <tr>
-        <th>School name</th>
-        <th>School code</th>
-        <th>Organization number</th>
-        </tr>
-        </thead>
-        <tbody id="tablebody">
-        </tbody>
-    </table>
+<div class="main">
+    <div class="container">
+        <span>Select a municipality: </span>
+        <span class="dropdown">
+        <label for="municipalityList"></label><select id="municipalityList"></select>
+    </span>
+    </div>
+    <div id="container" class="container">
+        <table id="table" class="normal">
+            <thead>
+            <tr>
+                <th>School name</th>
+                <th>School code</th>
+                <th>Organization number</th>
+            </tr>
+            </thead>
+            <tbody id="tablebody" class="body">
+            </tbody>
+        </table>
+    </div>
 </div>
 </body>
 <script src="js/schools.js"></script>

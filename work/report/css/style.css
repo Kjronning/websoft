@@ -1,12 +1,59 @@
-/*
- * Comments are written as C++ style. 
- */
 html {
     overflow-y: scroll;
 }
 
-body {
-    margin: 8px auto;
-    background: #fff;
-    width: 700px;
+body{
+    background-color: rgba(255,251,236, 0.95);
+
+}
+
+header{
+    position: absolute;
+    width: 100%;
+    padding: .5em 0;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgba(255,251,236, 0.95);
+    padding: .5em 0;
+    align-items: end;
+}
+
+.nav_list {
+    padding: 0;
+    text-align: center;
+}
+
+.nav_item {
+    display: inline-block;
+}
+.nav_item a {
+    display: block;
+    color: rgb(0, 72, 123);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    padding: 0.75em 1em;
+    border-right: 1px solid rgb(0, 173, 187);
+}
+
+.nav_item a:hover a:focus{
+     background-color: rgba(255,255,255,0.8);
+     color: rgb(0,72,123);
+ }
+
+.nav_list > :first-child a {
+    border-left: 1px solid rgb(0,173,187);
+}
+
+.main {
+    padding-top: 100px;
+    margin: auto;
+    background-color: rgba(255,251,236, 0.95);
+    display: table;
+    height: 100vh;
+    max-width: 50vw;
 }

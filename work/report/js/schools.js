@@ -22,8 +22,10 @@ const fetchMunicipalities = function(){
 const populateEmptyTable = function() {
     tableBody.innerHTML = "";
     let row = tableBody.insertRow(0);
-    for (let i = 0; i < 3; i++)
-        row.insertCell(0);
+    for (let i = 0; i < 3; i++) {
+        let cell = row.insertCell(i);
+        cell.innerHTML = "-";
+    }
 };
 
 const populateTable =  function(municipalityCode){

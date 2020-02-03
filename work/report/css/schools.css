@@ -1,7 +1,4 @@
-body{
-    font:1.2em normal Arial,sans-serif;
-    color:#34495E;
-}
+
 
 h1{
     text-align:center;
@@ -11,18 +8,80 @@ h1{
     margin:20px 0;
 }
 
-#container{
+.container{
     width:90%;
+    padding-top: 20px;
     margin:auto;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px; /* demo only */
+}
+
+.dropdown select {
+    background-color: #1abc9c;
+    color: #fff;
+    font-size: inherit;
+    padding: .5em;
+    padding-right: 2.5em;
+    border: 0;
+    margin: 0;
+    border-radius: 3px;
+    text-indent: 0.01px;
+    text-overflow: '';
+    -webkit-appearance: button; /* hide default arrow in chrome OSX */
+}
+
+.dropdown::before,
+.dropdown::after {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+}
+
+.dropdown::after { /*  Custom dropdown arrow */
+    content: "\25BC";
+    height: 1em;
+    font-size: .625em;
+    line-height: 1;
+    right: 1.2em;
+    top: 50%;
+    margin-top: -.5em;
+}
+
+.dropdown::before { /*  Custom dropdown arrow cover */
+    width: 2em;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 0 3px 3px 0;
+}
+
+.dropdown select[disabled] {
+    color: rgba(0,0,0,.3);
+}
+
+.dropdown select[disabled]::after {
+    color: rgba(0,0,0,.1);
+}
+
+.dropdown::before {
+    background-color: rgba(0,0,0,.15);
+}
+
+.dropdown::after {
+    color: rgba(0,0,0,.4);
+}
 table{
     border-collapse:collapse;
     width:100%;
     overflow: hidden;
 }
 
-table.normal{
+table.normal {
     border:2px solid #1ABC9C;
 }
 
@@ -33,7 +92,9 @@ thead{
 
 th,td{
     text-align:center;
-    padding:5px 0;
+    padding:5px 20px;
+    white-space: nowrap;
+    min-width: 200px;
 }
 
 tbody tr:nth-child(even){
