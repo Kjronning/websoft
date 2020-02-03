@@ -19,13 +19,13 @@
                 mirrored = false;
             duck.style.left = duck.offsetLeft + 10 + "px";
             console.log("mouse x position: " + mouseX);
-            console.log("image x position: " + elementLeft);
+            console.log("image x right position: " + elementRight);
         }else if(mouseX >= elementRight-63){
             if(!mirrored)
                 mirrored = true;
             duck.style.left = duck.offsetLeft - 10 + "px";
             console.log("mouse x position: " + mouseX);
-            console.log("image x position: " + elementRight);
+            console.log("image x left position: " + elementLeft);
         }
 
         if (mirrored){
@@ -43,4 +43,14 @@
         console.log("mouse leaved");
         clearInterval(intervalId);
     };
+    duck.addEventListener("change", (e) => {
+        let left = e.getBoundingClientRect().left;
+        let right = e.getBoundingClientRect().right;
+        console.log("left: " + left);
+        console.log("right: " + right);
+        if(left<0)
+            duck.style.left = "" + 0;
+        if(right>screen.width)
+            duck.style.right = "" + 0;
+    });
 })();

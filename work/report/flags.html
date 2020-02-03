@@ -3,8 +3,82 @@
 <head>
     <meta charset="UTF-8">
     <title>flags</title>
+    <link rel="stylesheet" href="css/flags.css">
 </head>
 <body>
+<header>
+    <nav>
+        <a href="me.html">Me</a> |
+        <a href="report.html">Report</a> |
+        <a href="about.html">About</a>
+        <a href="schools.html">Schools</a>
+        <a href="flags.html">Flags</a>
+    </nav>
+</header>
+<div class="container">
+    <div class="row">
+        <span>Chile</span>
+        <div class="checkbox">
+            <input type="checkbox" checked id="chile"/>
+            <label for="chile"></label>
+        </div>
+    </div>
+    <div class="row">
+        <span>Sweden</span>
+        <div class="checkbox">
+            <input type="checkbox" id="sweden"/>
+            <label for="sweden"></label>
+        </div>
+    </div>
+    <div class="row">
+        <span>Scotland</span>
+        <div class="checkbox">
+            <input type="checkbox" id="scotland"/>
+            <label for="scotland"></label>
+        </div>
+    </div>
+</div>
 
+<div class="flag-container">
+    <div id="flag">
+        <div id="chilean-flag" class="chilean-flag"></div>
+        <div id="swedish-flag" class="swedish-flag" hidden></div>
+        <div id="scottish-flag" class="scottish-flag" hidden></div>
+    </div>
+</div>
 </body>
+<script>
+    let chileCheckbox = document.querySelector("input[id=chile]");
+    let swedenCheckbox = document.querySelector("input[id=sweden]");
+    let scotlandCheckbox = document.querySelector("input[id=scotland]");
+    let chileanFlag = document.getElementById("chilean-flag");
+    let swedishFlag = document.getElementById("swedish-flag");
+    let scottishFlag = document.getElementById("scottish-flag");
+
+    chileCheckbox.addEventListener("change", function() {
+        if(chileCheckbox.checked){
+            swedenCheckbox.checked = false;
+            scotlandCheckbox.checked = false;
+        }
+        chileanFlag.hidden = !chileCheckbox.checked;
+    });
+
+
+    swedenCheckbox.addEventListener("change", function() {
+        if(swedenCheckbox.checked){
+            chileCheckbox.checked = false;
+            scotlandCheckbox.checked = false;
+        }
+        swedishFlag.hidden = !swedenCheckbox.checked;
+    });
+
+
+    scotlandCheckbox.addEventListener("change", function() {
+        if(scotlandCheckbox.checked){
+            swedenCheckbox.checked = false;
+            chileCheckbox.checked = false;
+        }
+        scottishFlag.hidden = !scotlandCheckbox.checked;
+    });
+</script>
 </html>
