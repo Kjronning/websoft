@@ -1,15 +1,19 @@
 body {
     background-color: white;
+    margin: auto;
+    display: table;
+    height: 100vh;
 }
 
 .flag-container {
+    height: 200px;
+    width: 400px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px black solid;
 }
 
-.chilean-flag {
+#chile-flag {
     width: 300px;
     height: 200px;
     position: relative;
@@ -17,7 +21,7 @@ body {
     box-shadow: 1px 9px 20px #e0dcdc;
 }
 
-.chilean-flag::before {
+#chile-flag::before {
     width: 120px;
     height: 100px;
     position: absolute;
@@ -28,7 +32,7 @@ body {
     background-color: blue;
 }
 
-.chilean-flag::after {
+#chile-flag::after {
     position: absolute;
     width: inherit;
     height: 100px;
@@ -39,14 +43,14 @@ body {
 }
 
 
-.swedish-flag{
+#sweden-flag{
     width:320px;
     height:200px;
     background-color:#005293;
     position:relative;
     box-shadow: 1px 9px 20px #e0dcdc;
 }
-.swedish-flag::before{
+#sweden-flag::before{
     content:"";
     position:absolute;
     left:100px;
@@ -54,7 +58,7 @@ body {
     height:inherit;
     background-color:#FECB00;
 }
-.swedish-flag::after{
+#sweden-flag::after{
     content:"";
     position:absolute;
     top:80px;
@@ -63,13 +67,14 @@ body {
     background-color:#FECB00;
 }
 
-.scottish-flag{
+#scotland-flag{
     width: 333px;
     height: 200px;
     position: relative;
     background-color: #0065BF;
 }
-.scottish-flag::before{
+#scotland-flag::before{
+    pointer-events: none;
     --transform-x: 3.81;
     --transform-y: 1.6;
     display:block;
@@ -91,7 +96,6 @@ body {
     color: white;
     content: "☓";
 }
-
 
 .container {
     position: relative;
@@ -154,6 +158,5 @@ body {
     border-radius: 50%;
     -webkit-transition: -webkit-transform .1s ease;
     transition: -webkit-transform .1s ease;
-    transition: transform .1s ease;
     transition: transform .1s ease, -webkit-transform .1s ease;
 }

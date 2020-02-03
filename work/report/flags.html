@@ -19,66 +19,51 @@
     <div class="row">
         <span>Chile</span>
         <div class="checkbox">
-            <input type="checkbox" checked id="chile"/>
+            <input type="checkbox" name="checkbox" id="chile" value="chile" checked/>
             <label for="chile"></label>
         </div>
     </div>
     <div class="row">
         <span>Sweden</span>
         <div class="checkbox">
-            <input type="checkbox" id="sweden"/>
+            <input type="checkbox" name="checkbox" id="sweden" value="sweden"/>
             <label for="sweden"></label>
         </div>
     </div>
     <div class="row">
         <span>Scotland</span>
         <div class="checkbox">
-            <input type="checkbox" id="scotland"/>
+            <input type="checkbox" name="checkbox" id="scotland" value="scotland"/>
             <label for="scotland"></label>
         </div>
     </div>
 </div>
 
 <div class="flag-container">
-    <div id="flag">
-        <div id="chilean-flag" class="chilean-flag"></div>
-        <div id="swedish-flag" class="swedish-flag" hidden></div>
-        <div id="scottish-flag" class="scottish-flag" hidden></div>
-    </div>
+        <div id="chile-flag"  class="flag"></div>
+        <div id="sweden-flag" class="flag" hidden></div>
+        <div id="scotland-flag" class="flag" hidden></div>
 </div>
 </body>
 <script>
-    let chileCheckbox = document.querySelector("input[id=chile]");
-    let swedenCheckbox = document.querySelector("input[id=sweden]");
-    let scotlandCheckbox = document.querySelector("input[id=scotland]");
-    let chileanFlag = document.getElementById("chilean-flag");
-    let swedishFlag = document.getElementById("swedish-flag");
-    let scottishFlag = document.getElementById("scottish-flag");
+    let toggles = document.querySelectorAll('input[name="checkbox"]');
+    let flags = document.getElementsByClassName("flag");
 
-    chileCheckbox.addEventListener("change", function() {
-        if(chileCheckbox.checked){
-            swedenCheckbox.checked = false;
-            scotlandCheckbox.checked = false;
+    for(let i=0; i<3;i++){
+        toggles[i].addEventListener("change",() => {
+            toggleChangeEvent(toggles[i], toggles[(i+1)%3], toggles[(i+2)%3],flags[i], flags[(i+1)%3], flags[(i+2)%3]);
+        });
+    }
+
+    let toggleChangeEvent = function(toggle1, toggle2, toggle3, flag1, flag2, flag3){
+        console.log("clicked " + toggle1.value);
+        if(toggle1.checked){
+            toggle2.checked = false;
+            flag2.hidden = true;
+            toggle3.checked = false;
+            flag3.hidden = true;
         }
-        chileanFlag.hidden = !chileCheckbox.checked;
-    });
-
-
-    swedenCheckbox.addEventListener("change", function() {
-        if(swedenCheckbox.checked){
-            chileCheckbox.checked = false;
-            scotlandCheckbox.checked = false;
-        }
-        swedishFlag.hidden = !swedenCheckbox.checked;
-    });
-
-
-    scotlandCheckbox.addEventListener("change", function() {
-        if(scotlandCheckbox.checked){
-            swedenCheckbox.checked = false;
-            chileCheckbox.checked = false;
-        }
-        scottishFlag.hidden = !scotlandCheckbox.checked;
-    });
+        flag1.hidden = !toggle1.checked;
+    };
 </script>
 </html>
