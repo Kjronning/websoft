@@ -1,0 +1,66 @@
+{
+  "Uttagsdatum": "2020-02-05T19:21:35.9464962+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "14324836",
+      "Skolenhetsnamn": "S:t Persskolan",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002825"
+    },
+    {
+      "Skolenhetskod": "21550555",
+      "Skolenhetsnamn": "Petrus Magni skola H",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002825"
+    },
+    {
+      "Skolenhetskod": "28646435",
+      "Skolenhetsnamn": "Vadstenagymnasiet",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002817"
+    },
+    {
+      "Skolenhetskod": "31782778",
+      "Skolenhetsnamn": "Katarinaskolan",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002825"
+    },
+    {
+      "Skolenhetskod": "49044898",
+      "Skolenhetsnamn": "Smultronstället fritidshem",
+      "Kommunkod": "0584",
+      "PeOrgNr": "7164262581"
+    },
+    {
+      "Skolenhetskod": "65213125",
+      "Skolenhetsnamn": "Central Insamlingsenhet Kommunal verksamhet",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002825"
+    },
+    {
+      "Skolenhetskod": "67405084",
+      "Skolenhetsnamn": "Ro integrerade särskoleelever",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002825"
+    },
+    {
+      "Skolenhetskod": "67834023",
+      "Skolenhetsnamn": "Central Insamlingsenhet Enskild verksamhet",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002825"
+    },
+    {
+      "Skolenhetskod": "83188264",
+      "Skolenhetsnamn": "St Persskolans grundsärskola",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002825"
+    },
+    {
+      "Skolenhetskod": "95974665",
+      "Skolenhetsnamn": "Rogslösa skola",
+      "Kommunkod": "0584",
+      "PeOrgNr": "2120002825"
+    }
+  ]
+}

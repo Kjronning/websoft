@@ -1,0 +1,522 @@
+{
+  "Uttagsdatum": "2020-02-05T19:21:07.1419292+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10405686",
+      "Skolenhetsnamn": "Norgårdenskolan 7-9",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "11533776",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Sinclair ES",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "12075195",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg HA",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "13539832",
+      "Skolenhetsnamn": "Äsperödsskolan Skansen",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "13861302",
+      "Skolenhetsnamn": "Vuxenutbildningen Ro 1 Komvux",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "16496466",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg GLU",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "16748592",
+      "Skolenhetsnamn": "Stråket",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "16834913",
+      "Skolenhetsnamn": "Unnerödsskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "19423108",
+      "Skolenhetsnamn": "Barn och elevhälsa",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "19612340",
+      "Skolenhetsnamn": "Forshällaskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "19665224",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Särskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "19930101",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo Y FT",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "20245835",
+      "Skolenhetsnamn": "Bokenäs skola",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "22642104",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola NA-AK",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "22811839",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo Y BA",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "24052595",
+      "Skolenhetsnamn": "Vuxenutbildningen Ro 4 Komvux",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "25121914",
+      "Skolenhetsnamn": "Hovhultsskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "25620892",
+      "Skolenhetsnamn": "Herrestadsskolan 4 - 6",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "25674555",
+      "Skolenhetsnamn": "Herrestadsskolan F - 3",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "27489448",
+      "Skolenhetsnamn": "Fridaskolan, Uddevalla",
+      "Kommunkod": "1485",
+      "PeOrgNr": "5564515988"
+    },
+    {
+      "Skolenhetskod": "27761276",
+      "Skolenhetsnamn": "Stråkets förskoleklass",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "28829503",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo 1 TE",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "29585776",
+      "Skolenhetsnamn": "Vassbo skola",
+      "Kommunkod": "1485",
+      "PeOrgNr": "5564491602"
+    },
+    {
+      "Skolenhetskod": "30428202",
+      "Skolenhetsnamn": "Vuxenutbildningen Ro 3 Komvux",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "31201216",
+      "Skolenhetsnamn": "Hogstorp skola",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "31588285",
+      "Skolenhetsnamn": "Vuxenutbildningen Ro 2 Komvux",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "31589327",
+      "Skolenhetsnamn": "Ljungskileskolan F-3",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "31921538",
+      "Skolenhetsnamn": "Central insamlingsenhet särskola",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "32263814",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg EK-SA SPINT",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "33205596",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo Y EE",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "35359339",
+      "Skolenhetsnamn": "Sandersdalskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "35423434",
+      "Skolenhetsnamn": "Central Insamlingsenhet Enskild verksamhet fritidsklubb",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "37127207",
+      "Skolenhetsnamn": "Herrestadsskolan F-3",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "37667577",
+      "Skolenhetsnamn": "Norgårdenskolan F-6",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "38904403",
+      "Skolenhetsnamn": "Praktiska Uddevalla",
+      "Kommunkod": "1485",
+      "PeOrgNr": "5562575786"
+    },
+    {
+      "Skolenhetskod": "42822337",
+      "Skolenhetsnamn": "Herrestadsskolan 4-6",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "43476389",
+      "Skolenhetsnamn": "Lane Ryrs skola",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "44018113",
+      "Skolenhetsnamn": "Bergiusskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "45132264",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo Y HV",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "45392607",
+      "Skolenhetsnamn": "Central Insamlingsenhet, Enheten för flerspråkighet och integration samt Källan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "45535775",
+      "Skolenhetsnamn": "Sommarhemsskolan 7-9",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "47108751",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Sinclair SAAK",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "47393891",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg SA",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "48414975",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg SASPINT",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "50120405",
+      "Skolenhetsnamn": "Linneaskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "50424828",
+      "Skolenhetsnamn": "Drottning Blankas Gymnasieskola Uddevalla",
+      "Kommunkod": "1485",
+      "PeOrgNr": "5565789129"
+    },
+    {
+      "Skolenhetskod": "51643587",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg HU",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "52279508",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg NB Häst",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "52464734",
+      "Skolenhetsnamn": "Hällebergsskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "8585000410"
+    },
+    {
+      "Skolenhetskod": "54884762",
+      "Skolenhetsnamn": "Eriksbergsskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "55030337",
+      "Skolenhetsnamn": "Dalabergsskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "55668386",
+      "Skolenhetsnamn": "Ramneröd F-2",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "60429057",
+      "Skolenhetsnamn": "Nordanvindsskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "60727136",
+      "Skolenhetsnamn": "Uddevalla Gymnasieskola, Östrabo Y GLU",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "61647360",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo Y VF",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "62222568",
+      "Skolenhetsnamn": "Västerskolan 6-7",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "62300682",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg RL",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "65265211",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Margretegärde GLU",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "67785826",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Margretegärde IM",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "68311593",
+      "Skolenhetsnamn": "Thoren Framtid Uddevalla",
+      "Kommunkod": "1485",
+      "PeOrgNr": "5566139290"
+    },
+    {
+      "Skolenhetskod": "68954250",
+      "Skolenhetsnamn": "Sommarhemsskolan F-6",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "71938440",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo 1 IN",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "75650987",
+      "Skolenhetsnamn": "Östanvindsskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "75892291",
+      "Skolenhetsnamn": "Sommarhemmets Grundsärskola",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "77005811",
+      "Skolenhetsnamn": "Stenbackeskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "8585011904"
+    },
+    {
+      "Skolenhetskod": "79957690",
+      "Skolenhetsnamn": "Norgårdens Grundsärskola",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "82570039",
+      "Skolenhetsnamn": "Bohusläns Helhetsskola",
+      "Kommunkod": "1485",
+      "PeOrgNr": "5566470398"
+    },
+    {
+      "Skolenhetskod": "82931004",
+      "Skolenhetsnamn": "Thoren Innovation School Uddevalla",
+      "Kommunkod": "1485",
+      "PeOrgNr": "5568902653"
+    },
+    {
+      "Skolenhetskod": "83416307",
+      "Skolenhetsnamn": "Ramnerödsskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "83584125",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg BF",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "86633974",
+      "Skolenhetsnamn": "Vuxenutbildningen Ro 3 SFI",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "86895581",
+      "Skolenhetsnamn": "Vuxenutbildningen Ro 4 SFI",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "87721560",
+      "Skolenhetsnamn": "Folkuniversitetets Gymnasium i Uddevalla",
+      "Kommunkod": "1485",
+      "PeOrgNr": "8572006313"
+    },
+    {
+      "Skolenhetskod": "88794685",
+      "Skolenhetsnamn": "Ljungskileskolan 4 - 6 ",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "88846671",
+      "Skolenhetsnamn": "Ljungskileskolan F - 3",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "92086024",
+      "Skolenhetsnamn": "Linnéaskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "93896474",
+      "Skolenhetsnamn": "JB Gymnasiet i Uddevalla",
+      "Kommunkod": "1485",
+      "PeOrgNr": "5564952207"
+    },
+    {
+      "Skolenhetskod": "94258829",
+      "Skolenhetsnamn": "Västerskolan 8-9",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "94910948",
+      "Skolenhetsnamn": "Norrskolan",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "95004684",
+      "Skolenhetsnamn": "Vuxenutbildningen Särvux",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "95024660",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Agneberg EK",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "95427242",
+      "Skolenhetsnamn": "Äsperödsskolan F-6",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "95568711",
+      "Skolenhetsnamn": "Ljungskileskolan 4-6",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "97191332",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo 1 VO",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "98651664",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola,Östrabo 1 NA",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    },
+    {
+      "Skolenhetskod": "99622695",
+      "Skolenhetsnamn": "Uddevalla gymnasieskola, Östrabo Y ES",
+      "Kommunkod": "1485",
+      "PeOrgNr": "2120001397"
+    }
+  ]
+}

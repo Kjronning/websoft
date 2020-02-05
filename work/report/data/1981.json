@@ -1,0 +1,180 @@
+{
+  "Uttagsdatum": "2020-02-05T19:19:15.6925554+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10281133",
+      "Skolenhetsnamn": "Grundsärskolan L-M",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "12604902",
+      "Skolenhetsnamn": "Enh. f. vuxnas lärande, komvux",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "13779978",
+      "Skolenhetsnamn": "Salbohedskolan",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "16338634",
+      "Skolenhetsnamn": "Central Insamlingsenhet",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "21974611",
+      "Skolenhetsnamn": "Lärvux",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "21996861",
+      "Skolenhetsnamn": "Enh. för vuxnas lärande, SFI",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "23593343",
+      "Skolenhetsnamn": "Ösby gymnasiesärskola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "26414444",
+      "Skolenhetsnamn": "Kilbo skola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "26966214",
+      "Skolenhetsnamn": "Varmsätra skola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "36193586",
+      "Skolenhetsnamn": "Ekebyskolan",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "37661956",
+      "Skolenhetsnamn": "Gysingegården",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "39531249",
+      "Skolenhetsnamn": "Verdandi gymnasiesär",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "40908531",
+      "Skolenhetsnamn": "Vallaskolan f-6",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "43956652",
+      "Skolenhetsnamn": "Svartådalens Skola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "5569532012"
+    },
+    {
+      "Skolenhetskod": "45723714",
+      "Skolenhetsnamn": "Åby skola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "46962800",
+      "Skolenhetsnamn": "Kila skola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "51981332",
+      "Skolenhetsnamn": "ABB Industrigymnasium Sala",
+      "Kommunkod": "1981",
+      "PeOrgNr": "5566081740"
+    },
+    {
+      "Skolenhetskod": "52288457",
+      "Skolenhetsnamn": "Västerfärnebo skola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "54764253",
+      "Skolenhetsnamn": "Västmanland naturbruksgy. Ösby",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "55414736",
+      "Skolenhetsnamn": "AB Salboheds gymnasiesärskola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "5566067418"
+    },
+    {
+      "Skolenhetskod": "61846061",
+      "Skolenhetsnamn": "Kyrkskolan",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "64471680",
+      "Skolenhetsnamn": "Ransta skola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "64954528",
+      "Skolenhetsnamn": "Vallaskolan 7-9",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "74567533",
+      "Skolenhetsnamn": "Lärkbacksskolan",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "84214609",
+      "Skolenhetsnamn": "Hedens skola",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "87859089",
+      "Skolenhetsnamn": "Kungsängsgymnasiet",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "91839062",
+      "Skolenhetsnamn": "Åkraskolan",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "96115551",
+      "Skolenhetsnamn": "Verdandi grundsär",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    },
+    {
+      "Skolenhetskod": "96344566",
+      "Skolenhetsnamn": "Ängshagenskolan",
+      "Kommunkod": "1981",
+      "PeOrgNr": "2120002098"
+    }
+  ]
+}

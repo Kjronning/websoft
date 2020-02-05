@@ -1,0 +1,150 @@
+{
+  "Uttagsdatum": "2020-02-05T19:22:47.0051517+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "11854255",
+      "Skolenhetsnamn": "Förberedelseklass Kristinebergskolan",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "16848652",
+      "Skolenhetsnamn": "Karlbergsgymnasiet 1",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "17012638",
+      "Skolenhetsnamn": "Förberedelseklass Södra skolan",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "25567918",
+      "Skolenhetsnamn": "Edsleskogs Friskola",
+      "Kommunkod": "1492",
+      "PeOrgNr": "8024439062"
+    },
+    {
+      "Skolenhetskod": "26968407",
+      "Skolenhetsnamn": "Rösparksskolan 2",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "27628327",
+      "Skolenhetsnamn": "Karlbergsgymnasiet 4",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "47439992",
+      "Skolenhetsnamn": "Kristinebergsskolan 3",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "54250243",
+      "Skolenhetsnamn": "Praktiska Åmål",
+      "Kommunkod": "1492",
+      "PeOrgNr": "5562575786"
+    },
+    {
+      "Skolenhetskod": "54409376",
+      "Skolenhetsnamn": "Södra skolan 2",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "55568161",
+      "Skolenhetsnamn": "Södra skolan 1",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "57530972",
+      "Skolenhetsnamn": "Kristinebergskolan 1",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "60891289",
+      "Skolenhetsnamn": "Kristinebergskolan 2",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "73587850",
+      "Skolenhetsnamn": "Södra Skolan Grundsärskola",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "75851915",
+      "Skolenhetsnamn": "Vuxenutbildningen, SFI",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "76459981",
+      "Skolenhetsnamn": "Edsleskogs fritidshem",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "79937107",
+      "Skolenhetsnamn": "Tösse skola",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "80947842",
+      "Skolenhetsnamn": "Natur och Miljöskolan i Åmål",
+      "Kommunkod": "1492",
+      "PeOrgNr": "5568523681"
+    },
+    {
+      "Skolenhetskod": "83129238",
+      "Skolenhetsnamn": "Vuxenutbildningen Åmål",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "84566385",
+      "Skolenhetsnamn": "Rösparksskolan 1",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "84599718",
+      "Skolenhetsnamn": "Fengersfors skola",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "85981745",
+      "Skolenhetsnamn": "Rösparksskolan2",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "87929683",
+      "Skolenhetsnamn": "Kristinebergskolan grundsärskola",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "88429477",
+      "Skolenhetsnamn": "Karlbergsgymnasiet 2",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    },
+    {
+      "Skolenhetskod": "94975733",
+      "Skolenhetsnamn": "Karlbergsgymnasiet 3",
+      "Kommunkod": "1492",
+      "PeOrgNr": "2120001587"
+    }
+  ]
+}

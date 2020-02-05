@@ -1,0 +1,192 @@
+{
+  "Uttagsdatum": "2020-02-05T19:15:24.4187707+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10094962",
+      "Skolenhetsnamn": "Osbeck/SFI",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "11311971",
+      "Skolenhetsnamn": "Osbecksgymnasiet RO3",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "11352295",
+      "Skolenhetsnamn": "Lagahöjdsskolan gysär",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "21359430",
+      "Skolenhetsnamn": "Glänningeskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "29824923",
+      "Skolenhetsnamn": "Öringe Skola",
+      "Kommunkod": "1381",
+      "PeOrgNr": "7164422300"
+    },
+    {
+      "Skolenhetskod": "34283262",
+      "Skolenhetsnamn": "Osbeck/vuxenutbildningen",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "35596848",
+      "Skolenhetsnamn": "Hasslövs Bygdeskola",
+      "Kommunkod": "1381",
+      "PeOrgNr": "8492022150"
+    },
+    {
+      "Skolenhetskod": "37733735",
+      "Skolenhetsnamn": "Ahlaskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "40523308",
+      "Skolenhetsnamn": "Ysbyskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "8492014298"
+    },
+    {
+      "Skolenhetskod": "46467884",
+      "Skolenhetsnamn": "Skottorpsskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "47498039",
+      "Skolenhetsnamn": "Våxtorpsskolan åk F-6",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "50150550",
+      "Skolenhetsnamn": "Lagaholmsskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "50172802",
+      "Skolenhetsnamn": "Våxtorpsskolan åk 7-9",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "53627354",
+      "Skolenhetsnamn": "Enheten för flerspråkighet och integration",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "53662732",
+      "Skolenhetsnamn": "Lagahöjdsskolan grundsär Lagaholmsk.",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "59683214",
+      "Skolenhetsnamn": "Hishultsskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "60467993",
+      "Skolenhetsnamn": "Lagahöjdsskolan Grundsär",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "61290860",
+      "Skolenhetsnamn": "Vallbergaskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "70969556",
+      "Skolenhetsnamn": "Osbecksgymnasiet RO2",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "71512894",
+      "Skolenhetsnamn": "Osbecksgymnasiet RO1",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "72113796",
+      "Skolenhetsnamn": "Osbeck/Lärvux",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "73088689",
+      "Skolenhetsnamn": "Veingeskolan F-6",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "76368627",
+      "Skolenhetsnamn": "Mellbystrandsskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "84214859",
+      "Skolenhetsnamn": "Fritidsledarna i Laholms kommun",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "85345776",
+      "Skolenhetsnamn": "Parkskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "87530959",
+      "Skolenhetsnamn": "Knäredsskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "87730335",
+      "Skolenhetsnamn": "Björkliden Gymnasium Sär",
+      "Kommunkod": "1381",
+      "PeOrgNr": "5566446711"
+    },
+    {
+      "Skolenhetskod": "91969425",
+      "Skolenhetsnamn": "Genevadsskolan",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "92912716",
+      "Skolenhetsnamn": "Våxtorpsskolan F-6",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "95134514",
+      "Skolenhetsnamn": "Veingeskolan 7-9",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    },
+    {
+      "Skolenhetskod": "98871161",
+      "Skolenhetsnamn": "Blåkulla skola",
+      "Kommunkod": "1381",
+      "PeOrgNr": "2120001223"
+    }
+  ]
+}

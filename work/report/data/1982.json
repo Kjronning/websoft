@@ -1,0 +1,84 @@
+{
+  "Uttagsdatum": "2020-02-05T19:12:09.2096142+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "11083778",
+      "Skolenhetsnamn": "NVU, Brinellskolan komvux, SFI",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2220000927"
+    },
+    {
+      "Skolenhetskod": "22362814",
+      "Skolenhetsnamn": "Alfaskolan",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2120002106"
+    },
+    {
+      "Skolenhetskod": "32420077",
+      "Skolenhetsnamn": "NVU, Brinellskolan 1",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2220000927"
+    },
+    {
+      "Skolenhetskod": "40193182",
+      "Skolenhetsnamn": "NVU, Brinellskolan, komvux",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2220000927"
+    },
+    {
+      "Skolenhetskod": "48434184",
+      "Skolenhetsnamn": "NVU, Brinellskolan 2",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2220000927"
+    },
+    {
+      "Skolenhetskod": "62844157",
+      "Skolenhetsnamn": "NVU, Brinellskolan, särvux",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2220000927"
+    },
+    {
+      "Skolenhetskod": "73755431",
+      "Skolenhetsnamn": "Olsboskolan gymnasiesär",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2120002106"
+    },
+    {
+      "Skolenhetskod": "74084060",
+      "Skolenhetsnamn": "Olsboskolan grundsär",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2120002106"
+    },
+    {
+      "Skolenhetskod": "81300090",
+      "Skolenhetsnamn": "Mariaskolan",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2120002106"
+    },
+    {
+      "Skolenhetskod": "88657987",
+      "Skolenhetsnamn": "Risbroskolan",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2120002106"
+    },
+    {
+      "Skolenhetskod": "95162796",
+      "Skolenhetsnamn": "Lindgårdsskolan F-6",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2520040524"
+    },
+    {
+      "Skolenhetskod": "95382478",
+      "Skolenhetsnamn": "Lindgårdsskolan 7-9",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2520040524"
+    },
+    {
+      "Skolenhetskod": "98041227",
+      "Skolenhetsnamn": "Per Olsskolan",
+      "Kommunkod": "1982",
+      "PeOrgNr": "2120002106"
+    }
+  ]
+}

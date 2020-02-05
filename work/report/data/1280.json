@@ -1,0 +1,1656 @@
+{
+  "Uttagsdatum": "2020-02-05T19:16:02.9205271+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10138956",
+      "Skolenhetsnamn": "Alpha CE SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "10481541",
+      "Skolenhetsnamn": "Thoren Business School Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566139290"
+    },
+    {
+      "Skolenhetskod": "10509907",
+      "Skolenhetsnamn": "Tygelsjöskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "10820314",
+      "Skolenhetsnamn": "Jobteam Konsult R.L.H. AB",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5569747040"
+    },
+    {
+      "Skolenhetskod": "10888432",
+      "Skolenhetsnamn": "Kunskapsskolan Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565661815"
+    },
+    {
+      "Skolenhetskod": "10963105",
+      "Skolenhetsnamn": "Komvux Malmö  ro 4 Irisskolan grundläggande",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "11608031",
+      "Skolenhetsnamn": "Malmö Restaurangskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "12536784",
+      "Skolenhetsnamn": "Monbijouskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "12636945",
+      "Skolenhetsnamn": "Bäckagårdsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "12926770",
+      "Skolenhetsnamn": "Einar Hansengymnasiet",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8450003481"
+    },
+    {
+      "Skolenhetskod": "13299659",
+      "Skolenhetsnamn": "Malmö Montessoriskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460009460"
+    },
+    {
+      "Skolenhetskod": "13495830",
+      "Skolenhetsnamn": "Vittra Västra hamnen",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564586716"
+    },
+    {
+      "Skolenhetskod": "13533663",
+      "Skolenhetsnamn": "Malmö Borgarskola Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "14010550",
+      "Skolenhetsnamn": "Små Rosorna förskoleklass",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5567831929"
+    },
+    {
+      "Skolenhetskod": "14379396",
+      "Skolenhetsnamn": "Djupadalsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "14569013",
+      "Skolenhetsnamn": "Värnhemsskolan Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "15068136",
+      "Skolenhetsnamn": "Sundsbroskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "15244697",
+      "Skolenhetsnamn": "Malmö Latinskola Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "15378664",
+      "Skolenhetsnamn": "Komvux Malmö Heleneholm SFI Ro 7",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "16037900",
+      "Skolenhetsnamn": "Högaholmsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "16185651",
+      "Skolenhetsnamn": "Lorensborgsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "16353434",
+      "Skolenhetsnamn": "Hindby Dibber",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564450665"
+    },
+    {
+      "Skolenhetskod": "16857143",
+      "Skolenhetsnamn": "Central Insamlingsenhet Kommunal verksamhet",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "17119840",
+      "Skolenhetsnamn": "Framtidsgymnasiet Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565755500"
+    },
+    {
+      "Skolenhetskod": "17159507",
+      "Skolenhetsnamn": "Fridhemsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "17441553",
+      "Skolenhetsnamn": "Kulladalsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "18134592",
+      "Skolenhetsnamn": "Sverigehälsan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564069861"
+    },
+    {
+      "Skolenhetskod": "18649919",
+      "Skolenhetsnamn": "Komvux Malmö Agnesfrid Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "19024032",
+      "Skolenhetsnamn": "Kastanjeskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8465016791"
+    },
+    {
+      "Skolenhetskod": "19032119",
+      "Skolenhetsnamn": "Fjärilens skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5591467666"
+    },
+    {
+      "Skolenhetskod": "19435652",
+      "Skolenhetsnamn": "Karl Johansskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "20719004",
+      "Skolenhetsnamn": "Komvux Malmö Centrum",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "20984584",
+      "Skolenhetsnamn": "Lärlingscenter Norra Sorgenfri gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "21120076",
+      "Skolenhetsnamn": "Klagshamnsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "21271638",
+      "Skolenhetsnamn": "Byggymnasiet gymnasiesärskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "21479146",
+      "Skolenhetsnamn": "Heleneholms gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "21938183",
+      "Skolenhetsnamn": "Bladins gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460010948"
+    },
+    {
+      "Skolenhetskod": "22198952",
+      "Skolenhetsnamn": "Komvux Malmö Heleneholm SFI Ro 6",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "22247256",
+      "Skolenhetsnamn": "Valdemarsro gymnasium Ro 4",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "22509001",
+      "Skolenhetsnamn": "Lindeborgsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "23548714",
+      "Skolenhetsnamn": "KLARA Teoretiska Gymnasium Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565286696"
+    },
+    {
+      "Skolenhetskod": "23605557",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn SFI Ro5",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "23850408",
+      "Skolenhetsnamn": "MiRoi SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "24339301",
+      "Skolenhetsnamn": "Europaportens grundskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5568350572"
+    },
+    {
+      "Skolenhetskod": "24476550",
+      "Skolenhetsnamn": "Malmö Borgarskola Ro 4",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "25054799",
+      "Skolenhetsnamn": "Kirsebergsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "25160697",
+      "Skolenhetsnamn": "Snitz Gymnasium Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565042255"
+    },
+    {
+      "Skolenhetskod": "25596917",
+      "Skolenhetsnamn": "Malmö Idrottsgymnasium Ro1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "25648215",
+      "Skolenhetsnamn": "Praktiska Gymnasiet Malmö City",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5562575786"
+    },
+    {
+      "Skolenhetskod": "26676746",
+      "Skolenhetsnamn": "Geijerskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "27185100",
+      "Skolenhetsnamn": "Merit utbildning, SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "28042118",
+      "Skolenhetsnamn": "Folkuniversitetet i Malmö SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "28085125",
+      "Skolenhetsnamn": "4ans Gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5567622682"
+    },
+    {
+      "Skolenhetskod": "28280402",
+      "Skolenhetsnamn": "Komvux Malmö Värnhem grundläggande Ro 1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "28334511",
+      "Skolenhetsnamn": "Fäladsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "28640213",
+      "Skolenhetsnamn": "Västra Hamnens skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "28770304",
+      "Skolenhetsnamn": "Agnesfrids gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "29128854",
+      "Skolenhetsnamn": "JENSEN Education SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "29300350",
+      "Skolenhetsnamn": "Mellanhedsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "30361243",
+      "Skolenhetsnamn": "Malmö Borgarskola Ro 1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "31155312",
+      "Skolenhetsnamn": "Plusgymnasiet Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565789129"
+    },
+    {
+      "Skolenhetskod": "31254149",
+      "Skolenhetsnamn": "Sockerbruksskolans särskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "31793697",
+      "Skolenhetsnamn": "Komvux Malmö Agnesfrid Ro 1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "31996111",
+      "Skolenhetsnamn": "Videdals privatskolor",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564518750"
+    },
+    {
+      "Skolenhetskod": "32423617",
+      "Skolenhetsnamn": "JENSEN grundskola Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566358759"
+    },
+    {
+      "Skolenhetskod": "32652404",
+      "Skolenhetsnamn": "Glokala Folkhögskolan i Malmö SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460039798"
+    },
+    {
+      "Skolenhetskod": "33011182",
+      "Skolenhetsnamn": "Komvux Malmö Värnhemsskolan Ro 4",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "33174525",
+      "Skolenhetsnamn": "Ängslättskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "33248148",
+      "Skolenhetsnamn": "Vårsångens skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "33391199",
+      "Skolenhetsnamn": "Komvux Malmö Restaurangskola Ro 1 ",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "33596850",
+      "Skolenhetsnamn": "Komvux Malmö Värnhem Ro3 gymnasial",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "33898093",
+      "Skolenhetsnamn": "Team Munkhättan F-6",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "34212719",
+      "Skolenhetsnamn": "Central Insamlingsenhet",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "34314029",
+      "Skolenhetsnamn": "Ängsdals skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564800836"
+    },
+    {
+      "Skolenhetskod": "34330661",
+      "Skolenhetsnamn": "Satellitskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "35894996",
+      "Skolenhetsnamn": "Drottning Blankas Gymnasieskola Malmö Söderport",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565668794"
+    },
+    {
+      "Skolenhetskod": "36012726",
+      "Skolenhetsnamn": "Dammfriskolan skolenhet 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "36636597",
+      "Skolenhetsnamn": "Komvux Malmö Centrum SFI Ro 10",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "36850601",
+      "Skolenhetsnamn": "Agnesfrids gymnasiesärskola ",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "36880435",
+      "Skolenhetsnamn": "Ögårdsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460039251"
+    },
+    {
+      "Skolenhetskod": "37050914",
+      "Skolenhetsnamn": "Komvux Malmö Borgarskolan Ro 1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "37324136",
+      "Skolenhetsnamn": "Videdalsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "37525112",
+      "Skolenhetsnamn": "Move & Walk Skola Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565495180"
+    },
+    {
+      "Skolenhetskod": "38820752",
+      "Skolenhetsnamn": "Komvux Malmö Rönnen SFI Ro 9",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "39087850",
+      "Skolenhetsnamn": "Stapelbäddsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "39124119",
+      "Skolenhetsnamn": "Rosengårdsskolan 7-9",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "39178171",
+      "Skolenhetsnamn": "Realgymnasiet Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565715892"
+    },
+    {
+      "Skolenhetskod": "39765345",
+      "Skolenhetsnamn": "Hyllie skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "40035084",
+      "Skolenhetsnamn": "Bergaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "40470449",
+      "Skolenhetsnamn": "Östra Skolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5568250632"
+    },
+    {
+      "Skolenhetskod": "40610473",
+      "Skolenhetsnamn": "Malmö Latinskola Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "40716758",
+      "Skolenhetsnamn": "Vittra Bunkeflo/Limhamn",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564586716"
+    },
+    {
+      "Skolenhetskod": "40730198",
+      "Skolenhetsnamn": "BUP skolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "41543853",
+      "Skolenhetsnamn": "Värnhemsskolan Ro 5",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "42123195",
+      "Skolenhetsnamn": "Malmö Borgarskola Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "43191305",
+      "Skolenhetsnamn": "Valdemarsro gymnasium Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "43374949",
+      "Skolenhetsnamn": "Startskolan NSG",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "43697331",
+      "Skolenhetsnamn": "Örtagårdsskolan 7-9",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "44459183",
+      "Skolenhetsnamn": "Fågelbacksskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "44869035",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn SFI Ro1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "44886191",
+      "Skolenhetsnamn": "Blankebäcksskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "45355980",
+      "Skolenhetsnamn": "Thoren Innovation School Malmö 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5568902653"
+    },
+    {
+      "Skolenhetskod": "45464166",
+      "Skolenhetsnamn": "Broskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "45776214",
+      "Skolenhetsnamn": "Montessorigrundskolan Maria",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565418455"
+    },
+    {
+      "Skolenhetskod": "47318972",
+      "Skolenhetsnamn": "Byggymnasiet Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "48237995",
+      "Skolenhetsnamn": "Mellanhedsskolans särskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "48593439",
+      "Skolenhetsnamn": "JENSEN Gymnasium Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566358759"
+    },
+    {
+      "Skolenhetskod": "48874671",
+      "Skolenhetsnamn": "Dammfriskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "49165163",
+      "Skolenhetsnamn": "Kungshögsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "49231191",
+      "Skolenhetsnamn": "Rytmus Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564648979"
+    },
+    {
+      "Skolenhetskod": "50640418",
+      "Skolenhetsnamn": "Didaktus Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564732856"
+    },
+    {
+      "Skolenhetskod": "50870779",
+      "Skolenhetsnamn": "Komvux Malmö SFI ro 11 Irisskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "51220608",
+      "Skolenhetsnamn": "Kommunikationsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "51805560",
+      "Skolenhetsnamn": "Hvilan Gymnasium Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566066980"
+    },
+    {
+      "Skolenhetskod": "52129378",
+      "Skolenhetsnamn": "NTI Gymnasiet Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5561203679"
+    },
+    {
+      "Skolenhetskod": "52358143",
+      "Skolenhetsnamn": "Komvux Malmö Värnhem grundläggande Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "52741329",
+      "Skolenhetsnamn": "Komvux Malmö Idrottsgymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "53047724",
+      "Skolenhetsnamn": "Hyllievångsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "53394422",
+      "Skolenhetsnamn": "Komvux Malmö Värnhemsskolan Ro 5",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "53774142",
+      "Skolenhetsnamn": "Kulladalskolan 3-5",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "54391363",
+      "Skolenhetsnamn": "Bulltoftaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "54555485",
+      "Skolenhetsnamn": "Ribersborgsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "54725950",
+      "Skolenhetsnamn": "Sveaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5567282859"
+    },
+    {
+      "Skolenhetskod": "54845539",
+      "Skolenhetsnamn": "Holmaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "55040455",
+      "Skolenhetsnamn": "Backaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8465001777"
+    },
+    {
+      "Skolenhetskod": "55363116",
+      "Skolenhetsnamn": "Segevångsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "55549522",
+      "Skolenhetsnamn": "Hyllie Park Grundskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564918356"
+    },
+    {
+      "Skolenhetskod": "55715129",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn, särvux",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "56363473",
+      "Skolenhetsnamn": "Gottorpskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "56446897",
+      "Skolenhetsnamn": "Malmö International School",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "56648670",
+      "Skolenhetsnamn": "Kryddgårdsskolan Montessori",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "56666435",
+      "Skolenhetsnamn": "Hermodsdalsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "56672773",
+      "Skolenhetsnamn": "Apelgårdsskolan F-6",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "56755694",
+      "Skolenhetsnamn": "Karlshögsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "56825396",
+      "Skolenhetsnamn": "Lilla Humfryskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5568683923"
+    },
+    {
+      "Skolenhetskod": "56989398",
+      "Skolenhetsnamn": "Rosenholmsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "57386343",
+      "Skolenhetsnamn": "Runstyckets skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564518081"
+    },
+    {
+      "Skolenhetskod": "57406155",
+      "Skolenhetsnamn": "Astar AB SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "57534630",
+      "Skolenhetsnamn": "Bladins grundskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460010948"
+    },
+    {
+      "Skolenhetskod": "58250857",
+      "Skolenhetsnamn": "Nydalaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "58623845",
+      "Skolenhetsnamn": "Pauliskolan Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "58937869",
+      "Skolenhetsnamn": "Mottagningsskolan Mosaik",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "59302625",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn SFI Ro3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "59500249",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "59841622",
+      "Skolenhetsnamn": "Söderkulla Internationella sk.",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "59926249",
+      "Skolenhetsnamn": "Annebergsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "60366078",
+      "Skolenhetsnamn": "Tingdammsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "61199979",
+      "Skolenhetsnamn": "Strandskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "61317595",
+      "Skolenhetsnamn": "Kilowattskolan i Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5568865801"
+    },
+    {
+      "Skolenhetskod": "61716971",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn SFI Ro4",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "61823258",
+      "Skolenhetsnamn": "Praktiska Gymnasiet Malmö Limhamn",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5562575786"
+    },
+    {
+      "Skolenhetskod": "61994062",
+      "Skolenhetsnamn": "JENSEN grundskola Malmö 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566358759"
+    },
+    {
+      "Skolenhetskod": "62126085",
+      "Skolenhetsnamn": "Boukefs Småskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5567155527"
+    },
+    {
+      "Skolenhetskod": "62868982",
+      "Skolenhetsnamn": "Boukefs Privatskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5567155527"
+    },
+    {
+      "Skolenhetskod": "62952638",
+      "Skolenhetsnamn": "Skolan på Ön",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "63396164",
+      "Skolenhetsnamn": "Västergård sär",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "63951601",
+      "Skolenhetsnamn": "Linnéskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "64123241",
+      "Skolenhetsnamn": "Norra Sorgenfri gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "64402572",
+      "Skolenhetsnamn": "Oxievångsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "64654180",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn, särskild utbildning för vuxna",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "64737940",
+      "Skolenhetsnamn": "Mölletoftaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "65099615",
+      "Skolenhetsnamn": "Värner Rydénskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "65247211",
+      "Skolenhetsnamn": "Komvux Malmö Norra Sorgenfri Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "65352190",
+      "Skolenhetsnamn": "Komvux Malmö Universitetsholmen Ro1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "65381163",
+      "Skolenhetsnamn": "Pauliskolan ",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "65722876",
+      "Skolenhetsnamn": "Malmö Latinskola Ro 1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "65836771",
+      "Skolenhetsnamn": "Sofielundsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "66656783",
+      "Skolenhetsnamn": "Söderkullaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "66836744",
+      "Skolenhetsnamn": "Kryddgårdsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "67130748",
+      "Skolenhetsnamn": "Sorgenfriskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "67135903",
+      "Skolenhetsnamn": "Östergårds skolområde",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "67272295",
+      "Skolenhetsnamn": "Mariaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460026654"
+    },
+    {
+      "Skolenhetskod": "67493294",
+      "Skolenhetsnamn": "Ekskolans skolområde",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "67614811",
+      "Skolenhetsnamn": "Pauliskolan Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "68006362",
+      "Skolenhetsnamn": "Universitetsholmens gymnasium ",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "68032050",
+      "Skolenhetsnamn": "Nordic International School Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566102033"
+    },
+    {
+      "Skolenhetskod": "68432420",
+      "Skolenhetsnamn": "Mikael Elias Gymnasium, Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565583282"
+    },
+    {
+      "Skolenhetskod": "68748767",
+      "Skolenhetsnamn": "Fria Läroverken Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5569172041"
+    },
+    {
+      "Skolenhetskod": "68774631",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn SFI Ro2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "68931457",
+      "Skolenhetsnamn": "Thoren Innovation School Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5568902653"
+    },
+    {
+      "Skolenhetskod": "69063711",
+      "Skolenhetsnamn": "Cybergymnasiet Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565693289"
+    },
+    {
+      "Skolenhetskod": "69234477",
+      "Skolenhetsnamn": "Risebergaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "69244685",
+      "Skolenhetsnamn": "Bellevueskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565686135"
+    },
+    {
+      "Skolenhetskod": "69320311",
+      "Skolenhetsnamn": "Berga F-5",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "70200717",
+      "Skolenhetsnamn": "Valdemarsro gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "71203301",
+      "Skolenhetsnamn": "Velanderskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "71454628",
+      "Skolenhetsnamn": "Malmö Idrottsgrundskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "71472793",
+      "Skolenhetsnamn": "Bryggeriets Gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8465017070"
+    },
+    {
+      "Skolenhetskod": "72113341",
+      "Skolenhetsnamn": "Universitetsholmens gymnasium Ro2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "72629361",
+      "Skolenhetsnamn": "Internationella Engelska Skolan Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564624368"
+    },
+    {
+      "Skolenhetskod": "72677850",
+      "Skolenhetsnamn": "Värnhemsskolan Ro 6",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "74359436",
+      "Skolenhetsnamn": "Hyllie Park folkhögskola SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460032835"
+    },
+    {
+      "Skolenhetskod": "74586882",
+      "Skolenhetsnamn": "Byggymnasiet Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "74972690",
+      "Skolenhetsnamn": "Munkhätteskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "75150461",
+      "Skolenhetsnamn": "UngMalmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "75399786",
+      "Skolenhetsnamn": "Al-Salamahskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460052155"
+    },
+    {
+      "Skolenhetskod": "75599504",
+      "Skolenhetsnamn": "Malmö Friskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566616297"
+    },
+    {
+      "Skolenhetskod": "75875503",
+      "Skolenhetsnamn": "Lindängeskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "75950563",
+      "Skolenhetsnamn": "Malmö Idrottsgymnasium Ro1 gymnasiesärskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "76040438",
+      "Skolenhetsnamn": "Komvux Malmö Värnhemsskolan Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "76147420",
+      "Skolenhetsnamn": "TAU Hantverksskola Vuxenutbildning",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566866082"
+    },
+    {
+      "Skolenhetskod": "76821439",
+      "Skolenhetsnamn": "Komvux Malmö Värnhem Ro 1 gymnasial",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "76875650",
+      "Skolenhetsnamn": "Värnhemsskolan, gysär",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "77176643",
+      "Skolenhetsnamn": "iMalmö utbildning",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5590411962"
+    },
+    {
+      "Skolenhetskod": "77378918",
+      "Skolenhetsnamn": "Elinelundsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "77498339",
+      "Skolenhetsnamn": "Kvarnby Folkhögskola SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "7696025944"
+    },
+    {
+      "Skolenhetskod": "77594036",
+      "Skolenhetsnamn": "Leep AB",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566861349"
+    },
+    {
+      "Skolenhetskod": "77609073",
+      "Skolenhetsnamn": "Drottning Blankas Gymnasieskola Malmö Möllan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565668794"
+    },
+    {
+      "Skolenhetskod": "77775471",
+      "Skolenhetsnamn": "Pauliskolan komvux Barn och fritid",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "78231062",
+      "Skolenhetsnamn": "S:t Petri skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "78422754",
+      "Skolenhetsnamn": "Taceo Folkhögskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8024806799"
+    },
+    {
+      "Skolenhetskod": "78498675",
+      "Skolenhetsnamn": "Örtagårdsskolan F-6",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "78986228",
+      "Skolenhetsnamn": "Bladins International School of Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8460010948"
+    },
+    {
+      "Skolenhetskod": "79290328",
+      "Skolenhetsnamn": "Malmö Latinskolan Ro1 gysär",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "79572182",
+      "Skolenhetsnamn": "Komvux Malmö Borgarskolan Ro 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "79592087",
+      "Skolenhetsnamn": "Startskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "79804503",
+      "Skolenhetsnamn": "Malmö Borgarskola Ro1 Gysär",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "79893878",
+      "Skolenhetsnamn": "Komvux Malmö ro 4 Värnhem gymnasial",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "79994304",
+      "Skolenhetsnamn": "TAU Hantverksskola Gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566866082"
+    },
+    {
+      "Skolenhetskod": "80189510",
+      "Skolenhetsnamn": "Gullviksskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "80830464",
+      "Skolenhetsnamn": "Mellersta Förstadsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "81071418",
+      "Skolenhetsnamn": "Merit utbildning Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5567174817"
+    },
+    {
+      "Skolenhetskod": "81160080",
+      "Skolenhetsnamn": "Komvux Malmö Södervärn Ro 4",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "82797662",
+      "Skolenhetsnamn": "Johannesskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "83404058",
+      "Skolenhetsnamn": "Videdals Privatskolor 2",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564518750"
+    },
+    {
+      "Skolenhetskod": "83861471",
+      "Skolenhetsnamn": "Rörsjöskolan 2, Zenith",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "84124236",
+      "Skolenhetsnamn": "Tegelskolans skolområde",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "84424083",
+      "Skolenhetsnamn": "ProCivitas Privata Gymnasium Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566157102"
+    },
+    {
+      "Skolenhetskod": "84512892",
+      "Skolenhetsnamn": "Västra skolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "84754381",
+      "Skolenhetsnamn": "Dammfriskolan skolenhet 4",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "84931200",
+      "Skolenhetsnamn": "Central Insamlingsenhet Enskild verksamhet",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "85007077",
+      "Skolenhetsnamn": "Pilbäckskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "85051905",
+      "Skolenhetsnamn": "Glasbruksskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "85082785",
+      "Skolenhetsnamn": "Stenkulaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "85176281",
+      "Skolenhetsnamn": "Värnhemsskolan  Ro 1 gysär",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "85905257",
+      "Skolenhetsnamn": "Thoren Framtid Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566139290"
+    },
+    {
+      "Skolenhetskod": "86384125",
+      "Skolenhetsnamn": "Husieskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "86471786",
+      "Skolenhetsnamn": "Österportsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "86483208",
+      "Skolenhetsnamn": "Bellevue gymnasium",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "86721450",
+      "Skolenhetsnamn": "Hermods AB SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "86762103",
+      "Skolenhetsnamn": "Yrkesgymnasiet Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566139290"
+    },
+    {
+      "Skolenhetskod": "87082881",
+      "Skolenhetsnamn": "Malmö Waldorfskola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8024886585"
+    },
+    {
+      "Skolenhetskod": "87197902",
+      "Skolenhetsnamn": "Rådmansvångens skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "87253745",
+      "Skolenhetsnamn": "Team Munkhättan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "87285421",
+      "Skolenhetsnamn": "Dammfriskolan skolenhet 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "87368888",
+      "Skolenhetsnamn": "Komvux Malmö Heleneholm SFI Ro 8",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "87527002",
+      "Skolenhetsnamn": "Apelgårdsskolan 7-9",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "87991089",
+      "Skolenhetsnamn": "Olympen",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "88387058",
+      "Skolenhetsnamn": "Värnhemsskolan Ro 4",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "88590084",
+      "Skolenhetsnamn": "Möllevångsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "89334963",
+      "Skolenhetsnamn": "S:ta Maria Folkhögskola SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "8020136951"
+    },
+    {
+      "Skolenhetskod": "89498184",
+      "Skolenhetsnamn": "Resursskolan UngArt",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566379623"
+    },
+    {
+      "Skolenhetskod": "89876778",
+      "Skolenhetsnamn": "Augustenborgsskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "89945429",
+      "Skolenhetsnamn": "Sakura",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "90604499",
+      "Skolenhetsnamn": "Komvux Malmö Universitetsholmen RO3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "91773491",
+      "Skolenhetsnamn": "Kunskapsgymnasiet Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5565661815"
+    },
+    {
+      "Skolenhetskod": "91823719",
+      "Skolenhetsnamn": "Humfryskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5567292478"
+    },
+    {
+      "Skolenhetskod": "92313496",
+      "Skolenhetsnamn": "Värnhemsskolan Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "92819736",
+      "Skolenhetsnamn": "Neptuniskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "92862757",
+      "Skolenhetsnamn": "Slottsstadens skola",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "93236176",
+      "Skolenhetsnamn": "Valdemarsro gymnasium, gysär",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "93270739",
+      "Skolenhetsnamn": "Rosengårdsskolan F-6",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "93599910",
+      "Skolenhetsnamn": "Rönnenskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "93743066",
+      "Skolenhetsnamn": "Komvux Malmö Värnhemsskolan Ro 3",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "94444264",
+      "Skolenhetsnamn": "Barn 1",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "95873877",
+      "Skolenhetsnamn": "Radix Kompetens AB",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5566731757"
+    },
+    {
+      "Skolenhetskod": "96615337",
+      "Skolenhetsnamn": "Iris Hadar AB, SFI",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "97265079",
+      "Skolenhetsnamn": "Jägersroskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "97531710",
+      "Skolenhetsnamn": "Komvux Malmö Värnhem Ro2 gymnasial",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "97818558",
+      "Skolenhetsnamn": "Rörsjöskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "97931189",
+      "Skolenhetsnamn": "LBS Kreativa Gymnasiet Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564851649"
+    },
+    {
+      "Skolenhetskod": "98541468",
+      "Skolenhetsnamn": "Peabskolan Malmö",
+      "Kommunkod": "1280",
+      "PeOrgNr": "5564427432"
+    },
+    {
+      "Skolenhetskod": "98713812",
+      "Skolenhetsnamn": "Toftanässkolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "98745015",
+      "Skolenhetsnamn": "Kroksbäcksskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    },
+    {
+      "Skolenhetskod": "99835038",
+      "Skolenhetsnamn": "Höjaskolan",
+      "Kommunkod": "1280",
+      "PeOrgNr": "2120001124"
+    }
+  ]
+}

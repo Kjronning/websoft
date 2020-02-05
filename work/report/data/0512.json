@@ -1,0 +1,30 @@
+{
+  "Uttagsdatum": "2020-02-05T19:22:18.9183509+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "48056871",
+      "Skolenhetsnamn": "Hestraskolan",
+      "Kommunkod": "0512",
+      "PeOrgNr": "2120000381"
+    },
+    {
+      "Skolenhetskod": "61662490",
+      "Skolenhetsnamn": "Ydreskolan 2",
+      "Kommunkod": "0512",
+      "PeOrgNr": "2120000381"
+    },
+    {
+      "Skolenhetskod": "61969375",
+      "Skolenhetsnamn": "Ydreskolan 1",
+      "Kommunkod": "0512",
+      "PeOrgNr": "2120000381"
+    },
+    {
+      "Skolenhetskod": "63680413",
+      "Skolenhetsnamn": "Central Insamlingsenhet Kommunal verksamhet",
+      "Kommunkod": "0512",
+      "PeOrgNr": "2120000381"
+    }
+  ]
+}

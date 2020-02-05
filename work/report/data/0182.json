@@ -1,0 +1,456 @@
+{
+  "Uttagsdatum": "2020-02-05T19:16:56.4367531+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10378202",
+      "Skolenhetsnamn": "Omsorgslyftet Vuxenutbildning AB",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5590000260"
+    },
+    {
+      "Skolenhetskod": "11496096",
+      "Skolenhetsnamn": "Kunskapsskolan Saltsjöbaden",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5565661815"
+    },
+    {
+      "Skolenhetskod": "11777750",
+      "Skolenhetsnamn": "Saltsjöbadens samskola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "11987493",
+      "Skolenhetsnamn": "Dansgymnasiet Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5568920218"
+    },
+    {
+      "Skolenhetskod": "14040970",
+      "Skolenhetsnamn": "Stavsborgsskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "14355031",
+      "Skolenhetsnamn": "Designgymnasiet Sickla",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5569320681"
+    },
+    {
+      "Skolenhetskod": "17616675",
+      "Skolenhetsnamn": "Björknäs gymnasiesärskola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "21346638",
+      "Skolenhetsnamn": "Järla skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "22472689",
+      "Skolenhetsnamn": "Jarlabergs skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "22904289",
+      "Skolenhetsnamn": "Vilans skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "24199792",
+      "Skolenhetsnamn": "Da Vinciskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5565315610"
+    },
+    {
+      "Skolenhetskod": "26273029",
+      "Skolenhetsnamn": "Ro integrerade särskoleelever",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "27344011",
+      "Skolenhetsnamn": "Neglinge skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "29449669",
+      "Skolenhetsnamn": "MediaGymnasiet i Nacka Strand",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5566765995"
+    },
+    {
+      "Skolenhetskod": "30066063",
+      "Skolenhetsnamn": "Alphyddeskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "31071774",
+      "Skolenhetsnamn": "NTI Gymnasiet Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5561203679"
+    },
+    {
+      "Skolenhetskod": "32965692",
+      "Skolenhetsnamn": "Johannes Petri skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5560354309"
+    },
+    {
+      "Skolenhetskod": "34135484",
+      "Skolenhetsnamn": "Castello Järla sjö",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5560354309"
+    },
+    {
+      "Skolenhetskod": "34368572",
+      "Skolenhetsnamn": "Omsorgslyftet Utbildningar/SFI",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "35311563",
+      "Skolenhetsnamn": "Lilla Nacka Skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5568963564"
+    },
+    {
+      "Skolenhetskod": "35986188",
+      "Skolenhetsnamn": "Centrumskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "36252055",
+      "Skolenhetsnamn": "Nacka gymnasium, Natur & Teknik",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "37384605",
+      "Skolenhetsnamn": "Raoul Wallenbergskolan Kvarnholmen",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5566740113"
+    },
+    {
+      "Skolenhetskod": "38022552",
+      "Skolenhetsnamn": "Kunskapsskolan Nacka Nord",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5565661815"
+    },
+    {
+      "Skolenhetskod": "38773182",
+      "Skolenhetsnamn": "Nacka språk och utbildningsenhet",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "41408780",
+      "Skolenhetsnamn": "Akademiska skolan i Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5569171936"
+    },
+    {
+      "Skolenhetskod": "41507895",
+      "Skolenhetsnamn": "Nacka Strands skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5560354309"
+    },
+    {
+      "Skolenhetskod": "44175786",
+      "Skolenhetsnamn": "Boo Gårds skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "44373961",
+      "Skolenhetsnamn": "Idunskolan Östra Stockholms Waldorfskola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "8024782230"
+    },
+    {
+      "Skolenhetskod": "44802890",
+      "Skolenhetsnamn": "Vittra Saltsjö-Boo",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5564586716"
+    },
+    {
+      "Skolenhetskod": "44836298",
+      "Skolenhetsnamn": "Sigfridsborgs skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "45274467",
+      "Skolenhetsnamn": "Eductus SFI",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "46611859",
+      "Skolenhetsnamn": "Rytmus Stockholm",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5564648979"
+    },
+    {
+      "Skolenhetskod": "46826772",
+      "Skolenhetsnamn": "Saltsjö-Duvnäs Montessoriförskola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "7696007835"
+    },
+    {
+      "Skolenhetskod": "47243834",
+      "Skolenhetsnamn": "Eklidens skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "51079129",
+      "Skolenhetsnamn": "Addera Kompetens och Utveckling",
+      "Kommunkod": "0182",
+      "PeOrgNr": "9697748201"
+    },
+    {
+      "Skolenhetskod": "52577981",
+      "Skolenhetsnamn": "Futuraskolan Lännbo",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5566095047"
+    },
+    {
+      "Skolenhetskod": "52885189",
+      "Skolenhetsnamn": "Ektorps skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "53133366",
+      "Skolenhetsnamn": "Orminge skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "57368693",
+      "Skolenhetsnamn": "Sickla skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "58907711",
+      "Skolenhetsnamn": "Sjölins gymnasium Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5563758399"
+    },
+    {
+      "Skolenhetskod": "59364802",
+      "Skolenhetsnamn": "Thoren Business School Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5566139290"
+    },
+    {
+      "Skolenhetskod": "62855448",
+      "Skolenhetsnamn": "Nacka Enskilda Gymnasium",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5567841977"
+    },
+    {
+      "Skolenhetskod": "63445397",
+      "Skolenhetsnamn": "Folkuniversitetet SFI Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "64065898",
+      "Skolenhetsnamn": "Maestroskolan Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5566100136"
+    },
+    {
+      "Skolenhetskod": "64285853",
+      "Skolenhetsnamn": "Saltsjö-Duvnäs skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "64918048",
+      "Skolenhetsnamn": "Lernia AB/SFI Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "65062411",
+      "Skolenhetsnamn": "Vuxenutbildningen komvux",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "65601958",
+      "Skolenhetsnamn": "Addera Kompetens AB",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5590338173"
+    },
+    {
+      "Skolenhetskod": "65865553",
+      "Skolenhetsnamn": "Jobblotsen Sverige AB",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5568006869"
+    },
+    {
+      "Skolenhetskod": "68285560",
+      "Skolenhetsnamn": "YBC, Young Business Creatives",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "68602647",
+      "Skolenhetsnamn": "Drottning Blankas Gymnasieskola Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5565668794"
+    },
+    {
+      "Skolenhetskod": "71353314",
+      "Skolenhetsnamn": "Magelungens Gymnasium Danvikstull",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5564891447"
+    },
+    {
+      "Skolenhetskod": "72891848",
+      "Skolenhetsnamn": "Praktiska Gymnasiet Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5562575786"
+    },
+    {
+      "Skolenhetskod": "74358019",
+      "Skolenhetsnamn": "Internationella Engelska Skolan  Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5564624368"
+    },
+    {
+      "Skolenhetskod": "75834458",
+      "Skolenhetsnamn": "Björknässkolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "79389184",
+      "Skolenhetsnamn": "Myrans heldagsskola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "79795608",
+      "Skolenhetsnamn": "Ältahöjden Dibber",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5566096516"
+    },
+    {
+      "Skolenhetskod": "82039928",
+      "Skolenhetsnamn": "Mode 3 Komvux",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5591056626"
+    },
+    {
+      "Skolenhetskod": "82047013",
+      "Skolenhetsnamn": "Älta skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "82438535",
+      "Skolenhetsnamn": "Snitz Grundskola Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5565042255"
+    },
+    {
+      "Skolenhetskod": "83312851",
+      "Skolenhetsnamn": "Nacka gymnasium",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "84240706",
+      "Skolenhetsnamn": "Integra Nacka, SFI",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "84884375",
+      "Skolenhetsnamn": "Myrsjöskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "85321366",
+      "Skolenhetsnamn": "Skuru skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "86831724",
+      "Skolenhetsnamn": "Igelboda skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "86858344",
+      "Skolenhetsnamn": "Primaskolan Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5565570958"
+    },
+    {
+      "Skolenhetskod": "86937935",
+      "Skolenhetsnamn": "Sågtorpsskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "87425546",
+      "Skolenhetsnamn": "Kunskapsskolan Nacka",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5565661815"
+    },
+    {
+      "Skolenhetskod": "87967939",
+      "Skolenhetsnamn": "Lännersta skola",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5560354309"
+    },
+    {
+      "Skolenhetskod": "91011718",
+      "Skolenhetsnamn": "Fisksätraskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "91067048",
+      "Skolenhetsnamn": "Ebba Braheskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5590468624"
+    },
+    {
+      "Skolenhetskod": "91812793",
+      "Skolenhetsnamn": "Nacka gymnasium, Samhälle",
+      "Kommunkod": "0182",
+      "PeOrgNr": "2120000167"
+    },
+    {
+      "Skolenhetskod": "96622957",
+      "Skolenhetsnamn": "Backeboskolan",
+      "Kommunkod": "0182",
+      "PeOrgNr": "7164221470"
+    },
+    {
+      "Skolenhetskod": "96645401",
+      "Skolenhetsnamn": "Kunskapsgymn. Observatoriet",
+      "Kommunkod": "0182",
+      "PeOrgNr": "5565661815"
+    }
+  ]
+}

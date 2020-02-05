@@ -1,0 +1,84 @@
+{
+  "Uttagsdatum": "2020-02-05T19:17:55.7765631+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "12443258",
+      "Skolenhetsnamn": "Pajala Centralskola",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2120002718"
+    },
+    {
+      "Skolenhetskod": "19748553",
+      "Skolenhetsnamn": "Grundsärskolan Pajala kommun",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2120002718"
+    },
+    {
+      "Skolenhetskod": "21850269",
+      "Skolenhetsnamn": "Pajala Lärcentra SFI",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2220000760"
+    },
+    {
+      "Skolenhetskod": "26520956",
+      "Skolenhetsnamn": "Laestadiusskolan",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2120002718"
+    },
+    {
+      "Skolenhetskod": "35837794",
+      "Skolenhetsnamn": "Kangos Kultur- o ekologiskola",
+      "Kommunkod": "2521",
+      "PeOrgNr": "8976008238"
+    },
+    {
+      "Skolenhetskod": "36111143",
+      "Skolenhetsnamn": "Sattajärvi skola",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2120002718"
+    },
+    {
+      "Skolenhetskod": "37347252",
+      "Skolenhetsnamn": "Tärendö Centralskola",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2120002718"
+    },
+    {
+      "Skolenhetskod": "38795559",
+      "Skolenhetsnamn": "Pajala Lärcentra",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2220000760"
+    },
+    {
+      "Skolenhetskod": "47353164",
+      "Skolenhetsnamn": "Pajala Lärcentra särvux",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2220000760"
+    },
+    {
+      "Skolenhetskod": "55662841",
+      "Skolenhetsnamn": "Gårdbyskolan",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2120002718"
+    },
+    {
+      "Skolenhetskod": "75324351",
+      "Skolenhetsnamn": "Laestadiusskolan",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2220000760"
+    },
+    {
+      "Skolenhetskod": "80594830",
+      "Skolenhetsnamn": "Junosuando Centralskola",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2120002718"
+    },
+    {
+      "Skolenhetskod": "94203685",
+      "Skolenhetsnamn": "Smedskolan",
+      "Kommunkod": "2521",
+      "PeOrgNr": "2120002718"
+    }
+  ]
+}
