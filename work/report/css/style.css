@@ -12,6 +12,8 @@ header{
     padding: .5em 0;
 }
 
+
+/*nav bqr*/
 nav {
     position: fixed;
     top: 0;
@@ -55,4 +57,14 @@ nav {
     display: table;
     height: 100vh;
     max-width: 50vw;
+}
+
+/*duck*/
+.duck{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background-size: 128px;
+    background-repeat: no-repeat;
+    background-image: url("../img/duck.png");
 }
