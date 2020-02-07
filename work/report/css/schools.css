@@ -22,15 +22,14 @@ h1{
 }
 
 .dropdown select {
-    background-color: #1abc9c;
-    color: #fff;
+    background-color: var(--color-primary-light);
+    color: var(--color-primary-dark);
     font-size: inherit;
-    padding: .5em;
-    padding-right: 2.5em;
+    padding: .5em 2.5em .5em .5em;
     border: 0;
     margin: 0;
     border-radius: 3px;
-    text-indent: 0.01px;
+    text-indent: 0;
     text-overflow: '';
     -webkit-appearance: button; /* hide default arrow in chrome OSX */
 }
@@ -61,19 +60,23 @@ h1{
 }
 
 .dropdown select[disabled] {
-    color: rgba(0,0,0,.3);
+    color: var(--color-accent);
+    opacity: 30%;
 }
 
 .dropdown select[disabled]::after {
-    color: rgba(0,0,0,.1);
+    color: var(--color-accent);
+    opacity: 10%;
 }
 
 .dropdown::before {
-    background-color: rgba(0,0,0,.15);
+    background-color: var(--color-accent);
+    opacity: 15%;
 }
 
 .dropdown::after {
-    color: rgba(0,0,0,.4);
+    color: var(--color-accent);
+    opacity: 40%;
 }
 table{
     border-collapse:collapse;
@@ -82,12 +85,12 @@ table{
 }
 
 table.normal {
-    border:2px solid #1ABC9C;
+    border:2px solid var(--color-primary-light);
 }
 
 thead{
-    background:#1ABC9C;
-    color:white;
+    background:var(--color-primary-light);
+    color:var(--color-primary-dark);
 }
 
 th,td{
@@ -95,15 +98,21 @@ th,td{
     padding:5px 20px;
     white-space: nowrap;
     min-width: 200px;
+    /*color: var(--color-accent);*/
+}
+
+tbody tr{
+    background-color: var(--color-primary-light);
 }
 
 tbody tr:nth-child(even){
-    background:#ECF0F1;
+    background-color: var(--color-primary-dark);
+    color: var(--color-primary-light);
 }
 
 tbody tr:hover{
-    background:#BDC3C7;
-    color:#FFFFFF;
+    background: var(--color-primary);
+    color: var(--color-accent);
 }
 
 .fixed{

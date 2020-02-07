@@ -1,0 +1,25 @@
+.collapsible {
+    border: 2px solid var(--color-primary-dark);
+    background-color: var(--color-primary-light);
+    color: var(--color-primary-dark);
+    cursor: pointer;
+    padding: 14px 18px;
+    width: 50vw;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    margin: 5px;
+}
+
+.active, .collapsible:hover {
+    background-color: var(--color-primary-dark);
+    color: var(--color-primary);
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: var(--color-primary);
+
+}

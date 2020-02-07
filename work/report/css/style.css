@@ -3,7 +3,8 @@ html {
 }
 
 body{
-    background-color: rgba(255,251,236, 0.95);
+    background-color: var(--color-primary);
+    color: var(--color-accent);
 }
 
 header{
@@ -18,7 +19,7 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: rgba(255,251,236, 0.95);
+    background-color: var(--color-accent);
     padding: .5em 0;
     align-items: end;
 }
@@ -33,27 +34,22 @@ nav {
 }
 .nav_item a {
     display: block;
-    color: rgb(0, 72, 123);
+    color: var(--color-primary);
     text-decoration: none;
     text-transform: uppercase;
     font-size: 0.9em;
     padding: 0.75em 1em;
-    border-right: 1px solid rgb(0, 173, 187);
 }
 
 .nav_item a:hover a:focus{
-     background-color: rgba(255,255,255,0.8);
-     color: rgb(0,72,123);
+     background-color: var(--color-primary-dark);
+     color: var(--color-primary-light);
  }
-
-.nav_list > :first-child a {
-    border-left: 1px solid rgb(0,173,187);
-}
 
 .main {
     padding-top: 100px;
     margin: auto;
-    background-color: rgba(255,251,236, 0.95);
+    background-color: var(--color-primary);
     display: table;
     height: 100vh;
     max-width: 50vw;
