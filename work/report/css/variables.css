@@ -1,8 +1,12 @@
 :root{
-    --color-primary: #d81c4b;
-    --color-primary-dark: #7c1e3b;
-    --color-primary-light: #f63114;
-    --color-accent: #421930;
+    --color-primary: #78909c;
+    --color-primary-variant: #37474f;
+    --color-secondary: #9fa8da;
+    --color-secondary-variant: #3949ab;
+    --text-light: #ffffff;
+    --text-dark: #000000;
+    --background-light: #eeeeee;
+    --background-dark: #202020;
     /*--color-primary: #a7a7a7;*/
     /*--color-primary-dark: #575757;*/
     /*--color-primary-light: #ffffff;*/

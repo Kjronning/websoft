@@ -22,8 +22,8 @@ h1{
 }
 
 .dropdown select {
-    background-color: var(--color-primary-light);
-    color: var(--color-primary-dark);
+    background-color: var(--color-secondary);
+    color: var(--text-dark);
     font-size: inherit;
     padding: .5em 2.5em .5em .5em;
     border: 0;
@@ -60,22 +60,22 @@ h1{
 }
 
 .dropdown select[disabled] {
-    color: var(--color-accent);
+    color: var(--color-secondary);
     opacity: 30%;
 }
 
 .dropdown select[disabled]::after {
-    color: var(--color-accent);
+    color: var(--color-secondary);
     opacity: 10%;
 }
 
 .dropdown::before {
-    background-color: var(--color-accent);
+    background-color: var(--color-secondary);
     opacity: 15%;
 }
 
 .dropdown::after {
-    color: var(--color-accent);
+    color: var(--color-secondary);
     opacity: 40%;
 }
 table{
@@ -85,12 +85,12 @@ table{
 }
 
 table.normal {
-    border:2px solid var(--color-primary-light);
+    border:2px solid var(--color-secondary-variant);
 }
 
 thead{
-    background:var(--color-primary-light);
-    color:var(--color-primary-dark);
+    background:var(--color-primary-variant);
+    color:var(--text-light);
 }
 
 th,td{
@@ -102,17 +102,18 @@ th,td{
 }
 
 tbody tr{
-    background-color: var(--color-primary-light);
+    background-color: var(--color-primary);
+    color: var(--text-light);
 }
 
 tbody tr:nth-child(even){
-    background-color: var(--color-primary-dark);
-    color: var(--color-primary-light);
+    background-color: var(--color-primary-variant);
+    color: var(--text-light);
 }
 
 tbody tr:hover{
-    background: var(--color-primary);
-    color: var(--color-accent);
+    background: var(--color-secondary);
+    color: var(--text-dark);
 }
 
 .fixed{

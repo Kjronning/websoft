@@ -3,53 +3,50 @@ html {
 }
 
 body{
-    background-color: var(--color-primary);
-    color: var(--color-accent);
+    background-color: var(--background-light);
+    color: var(--text-dark);
+    margin: 0;
+    padding: 0;
 }
 
 header{
     position: absolute;
-    width: 100%;
-    padding: .5em 0;
 }
 
 
-/*nav bqr*/
+/*nav bar*/
 nav {
     position: fixed;
-    top: 0;
     width: 100%;
-    background-color: var(--color-accent);
-    padding: .5em 0;
+    background-color: var(--color-primary);
     align-items: end;
 }
 
 .nav_list {
-    padding: 0;
-    text-align: center;
+    text-align: end;
 }
 
 .nav_item {
     display: inline-block;
+    margin-right: 20px;
 }
 .nav_item a {
-    display: block;
-    color: var(--color-primary);
+    display: inline-block;
+    color: var(--text-light);
     text-decoration: none;
     text-transform: uppercase;
     font-size: 0.9em;
     padding: 0.75em 1em;
 }
 
-.nav_item a:hover a:focus{
-     background-color: var(--color-primary-dark);
-     color: var(--color-primary-light);
+.nav_item a:hover, a:focus{
+     background-color: var(--color-primary-variant);
  }
 
 .main {
     padding-top: 100px;
     margin: auto;
-    background-color: var(--color-primary);
+    background-color: var(--background-light);
     display: table;
     height: 100vh;
     max-width: 50vw;

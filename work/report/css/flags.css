@@ -101,7 +101,7 @@
 .container {
     position: relative;
     border-radius: .5em;
-    color: var(--color-primary);
+    color: var(--color-secondary);
     width: 300px;
 }
 .container > .row {
@@ -118,13 +118,13 @@
 }
 .container > div span {
     padding-right: 2em;
-    color: var(--color-primary-dark);
+    color: var(--text-dark);
 }
 .checkbox input {
     display: none;
 }
 .checkbox input:checked + label {
-    background: var(--color-primary-dark);
+    background: var(--color-primary-variant);
     opacity: 85%;
 }
 .checkbox input:checked + label:before {
@@ -141,7 +141,7 @@
     width: 2.4em;
     height: 1.2em;
     padding: .2em;
-    background: var(--color-primary-light);
+    background: var(--color-primary);
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
@@ -155,8 +155,8 @@
     display: block;
     width: 1.2em;
     height: 1.2em;
-    background: var(--color-primary);
-    box-shadow: 3px 5px 20px -3px var(--color-primary-dark) 32%;
+    background: var(--background-light);
+    box-shadow: 3px 5px 20px -3px var(--color-primary-variant) 32%;
     border-radius: 50%;
     -webkit-transition: -webkit-transform .1s ease;
     transition: -webkit-transform .1s ease;
