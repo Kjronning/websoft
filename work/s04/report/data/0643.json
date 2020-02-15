@@ -1,0 +1,54 @@
+{
+  "Uttagsdatum": "2020-02-05T19:13:17.6242425+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "20706826",
+      "Skolenhetsnamn": "Alléskolan",
+      "Kommunkod": "0643",
+      "PeOrgNr": "2120001611"
+    },
+    {
+      "Skolenhetskod": "38553494",
+      "Skolenhetsnamn": "Hagabodaskolan",
+      "Kommunkod": "0643",
+      "PeOrgNr": "2120001611"
+    },
+    {
+      "Skolenhetskod": "42615925",
+      "Skolenhetsnamn": "Fagerhults skola",
+      "Kommunkod": "0643",
+      "PeOrgNr": "2120001611"
+    },
+    {
+      "Skolenhetskod": "54912533",
+      "Skolenhetsnamn": "Malmgårdsskolan",
+      "Kommunkod": "0643",
+      "PeOrgNr": "2120001611"
+    },
+    {
+      "Skolenhetskod": "79878458",
+      "Skolenhetsnamn": "Kråkerydskolan",
+      "Kommunkod": "0643",
+      "PeOrgNr": "2120001611"
+    },
+    {
+      "Skolenhetskod": "87453774",
+      "Skolenhetsnamn": "Bränningeskolan",
+      "Kommunkod": "0643",
+      "PeOrgNr": "2120001611"
+    },
+    {
+      "Skolenhetskod": "89879483",
+      "Skolenhetsnamn": "Hagenskolan",
+      "Kommunkod": "0643",
+      "PeOrgNr": "2120001611"
+    },
+    {
+      "Skolenhetskod": "98323866",
+      "Skolenhetsnamn": "Central Insamlingsenhet",
+      "Kommunkod": "0643",
+      "PeOrgNr": "2120001611"
+    }
+  ]
+}

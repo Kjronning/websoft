@@ -1,0 +1,114 @@
+{
+  "Uttagsdatum": "2020-02-05T19:20:31.254184+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10663043",
+      "Skolenhetsnamn": "Tanumskolan F-6",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "14586562",
+      "Skolenhetsnamn": "Tanums Gymnasium",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "20334544",
+      "Skolenhetsnamn": "Grebbestadskolan",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "21203914",
+      "Skolenhetsnamn": "Lurs skola",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "22465670",
+      "Skolenhetsnamn": "Fjällbacka skola",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "23382350",
+      "Skolenhetsnamn": "Komvux, särvux",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "27693248",
+      "Skolenhetsnamn": "Komvux",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "34018825",
+      "Skolenhetsnamn": "Komvux Tanum, SFI",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "35591063",
+      "Skolenhetsnamn": "Rabbalshede skola",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "49130128",
+      "Skolenhetsnamn": "Backa skola",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "51364488",
+      "Skolenhetsnamn": "Sjöstjärneskolan",
+      "Kommunkod": "1435",
+      "PeOrgNr": "7164448933"
+    },
+    {
+      "Skolenhetskod": "74079446",
+      "Skolenhetsnamn": "Tanumskolan 7-9",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "81072495",
+      "Skolenhetsnamn": "Hamburgsundskolan F-9",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "87690785",
+      "Skolenhetsnamn": "Tanumskolan sär",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "91062663",
+      "Skolenhetsnamn": "Central Insamlingsenhet",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "97075871",
+      "Skolenhetsnamn": "Hedeskolan",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "98236984",
+      "Skolenhetsnamn": "Hamburgsundskolan F-6",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    },
+    {
+      "Skolenhetskod": "99619883",
+      "Skolenhetsnamn": "Ekdungeskolan",
+      "Kommunkod": "1435",
+      "PeOrgNr": "2120001348"
+    }
+  ]
+}

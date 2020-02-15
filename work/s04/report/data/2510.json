@@ -1,0 +1,66 @@
+{
+  "Uttagsdatum": "2020-02-05T19:14:09.2777705+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "15502210",
+      "Skolenhetsnamn": "Jokkmokk Lärcentra särvux",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2220000760"
+    },
+    {
+      "Skolenhetskod": "19143733",
+      "Skolenhetsnamn": "Västra skolan",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2120002676"
+    },
+    {
+      "Skolenhetskod": "33468088",
+      "Skolenhetsnamn": "Vuollerims Friskola",
+      "Kommunkod": "2510",
+      "PeOrgNr": "5567857262"
+    },
+    {
+      "Skolenhetskod": "39555838",
+      "Skolenhetsnamn": "Bokenskolan",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2220000760"
+    },
+    {
+      "Skolenhetskod": "66600682",
+      "Skolenhetsnamn": "Porjus skola",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2120002676"
+    },
+    {
+      "Skolenhetskod": "86851817",
+      "Skolenhetsnamn": "Östra skolan",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2120002676"
+    },
+    {
+      "Skolenhetskod": "87394397",
+      "Skolenhetsnamn": "Jokkmokk Lärcentra",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2220000760"
+    },
+    {
+      "Skolenhetskod": "89451025",
+      "Skolenhetsnamn": "Vuollerims Centralskola",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2120002676"
+    },
+    {
+      "Skolenhetskod": "91024314",
+      "Skolenhetsnamn": "Sameskolan Jokkmokk",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2021004631"
+    },
+    {
+      "Skolenhetskod": "93565762",
+      "Skolenhetsnamn": "Jokkmokk Lärcentra, SFI",
+      "Kommunkod": "2510",
+      "PeOrgNr": "2220000760"
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+{
+  "Uttagsdatum": "2020-02-05T19:15:03.873389+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10983605",
+      "Skolenhetsnamn": "SFI 1",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "12725451",
+      "Skolenhetsnamn": "Fjälkinge skola L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "13520728",
+      "Skolenhetsnamn": "Söderportgymnasiet IM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "13756290",
+      "Skolenhetsnamn": "Rönnowskolan MH",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "13867770",
+      "Skolenhetsnamn": "Fjälkinge skola MH",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "14119849",
+      "Skolenhetsnamn": "Huaröds skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "14555807",
+      "Skolenhetsnamn": "Antonskolan Blekedamm",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5566024906"
+    },
+    {
+      "Skolenhetskod": "14748216",
+      "Skolenhetsnamn": "Helgedalskolan M",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "14755768",
+      "Skolenhetsnamn": "Söderportgymnasiet 2",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "14799941",
+      "Skolenhetsnamn": "Rinkaby skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "15325771",
+      "Skolenhetsnamn": "Parkskolan",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "17666526",
+      "Skolenhetsnamn": "JENSEN Gymnasium Kristianstad",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5566358759"
+    },
+    {
+      "Skolenhetskod": "18636287",
+      "Skolenhetsnamn": "Önnestads skola MH",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "20734425",
+      "Skolenhetsnamn": "Christian 4:s Gymnasium HA, HT, NA, SA",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "21702982",
+      "Skolenhetsnamn": "Österänggymnasiet IM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "22284806",
+      "Skolenhetsnamn": "Rickarums skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "8024612114"
+    },
+    {
+      "Skolenhetskod": "24047305",
+      "Skolenhetsnamn": "Wendesgymnasiet IM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "26843745",
+      "Skolenhetsnamn": "Lejonskolan",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5566456348"
+    },
+    {
+      "Skolenhetskod": "26968116",
+      "Skolenhetsnamn": "Kulltorpskolan",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "27858536",
+      "Skolenhetsnamn": "Everöds skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "28258073",
+      "Skolenhetsnamn": "Helgedalskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "29669758",
+      "Skolenhetsnamn": "Trolle Ljungby skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "7164367604"
+    },
+    {
+      "Skolenhetskod": "39054632",
+      "Skolenhetsnamn": "Centralskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "40082524",
+      "Skolenhetsnamn": "Vuxenutbildningen GyVux",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "40305649",
+      "Skolenhetsnamn": "Centralskolan LM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "40766349",
+      "Skolenhetsnamn": "Christian 4:s Gymnasium HU, SA",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "41240740",
+      "Skolenhetsnamn": "Vittskövle skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "41261089",
+      "Skolenhetsnamn": "Sånnaskolan LM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "42267529",
+      "Skolenhetsnamn": "Milnergymnasiet IAIND",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "43251309",
+      "Skolenhetsnamn": "LBS Kreativa Gymnasiet Kristianstad",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5564851649"
+    },
+    {
+      "Skolenhetskod": "45430802",
+      "Skolenhetsnamn": "Tollarps skola MH",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "45467287",
+      "Skolenhetsnamn": "Hammars skola LM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "46211392",
+      "Skolenhetsnamn": "Öllsjöskolan MH",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "47456573",
+      "Skolenhetsnamn": "Kiaby skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "47528334",
+      "Skolenhetsnamn": "Anton högstadie",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5566024906"
+    },
+    {
+      "Skolenhetskod": "50316106",
+      "Skolenhetsnamn": "Slättängsskolan LM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "51801312",
+      "Skolenhetsnamn": "Rönnowskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "51988106",
+      "Skolenhetsnamn": "Fröknegårdskolan LM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "52705247",
+      "Skolenhetsnamn": "Lejongymnasiet",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5566456348"
+    },
+    {
+      "Skolenhetskod": "53691739",
+      "Skolenhetsnamn": "NTI Gymnasiet Kristianstad",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5565970471"
+    },
+    {
+      "Skolenhetskod": "54270070",
+      "Skolenhetsnamn": "Fjälkestads skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "55252770",
+      "Skolenhetsnamn": "Önnestads skola L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "57538739",
+      "Skolenhetsnamn": "Antonskolan Österäng",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5566024906"
+    },
+    {
+      "Skolenhetskod": "58368956",
+      "Skolenhetsnamn": "Wendesgymnasiet BA, HV",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "58419840",
+      "Skolenhetsnamn": "Degebergaskolan MH",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "58968208",
+      "Skolenhetsnamn": "Degebergaskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "59516376",
+      "Skolenhetsnamn": "Lingenässkolan L1",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "59782586",
+      "Skolenhetsnamn": "Norretullskolan",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "59849681",
+      "Skolenhetsnamn": "Söderportgymnasiet EK",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "60209222",
+      "Skolenhetsnamn": "Österänggymnasiet EE, IN, RL",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "61547652",
+      "Skolenhetsnamn": "Önnestadsgymnasiet",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5567502777"
+    },
+    {
+      "Skolenhetskod": "62104139",
+      "Skolenhetsnamn": "Österänggymnasiet HT, SA",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "63356940",
+      "Skolenhetsnamn": "Slättängsskolan H",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "63437779",
+      "Skolenhetsnamn": "Central Insamlingsenhet",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "63640460",
+      "Skolenhetsnamn": "Spängerskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "63749463",
+      "Skolenhetsnamn": "Spängerskolan MH",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "66102898",
+      "Skolenhetsnamn": "Näsby skola L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "66206870",
+      "Skolenhetsnamn": "Näsby skola M",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "66367722",
+      "Skolenhetsnamn": "Österslövs skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "67554405",
+      "Skolenhetsnamn": "Drottning Blankas Gymnasieskola Kristianstad",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5565789129"
+    },
+    {
+      "Skolenhetskod": "68950651",
+      "Skolenhetsnamn": "Viby skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "69629367",
+      "Skolenhetsnamn": "Färlövs skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "70339689",
+      "Skolenhetsnamn": "Väskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "71073360",
+      "Skolenhetsnamn": "Christian 4:s Gymnasium IM",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "71571158",
+      "Skolenhetsnamn": "Framtidsgymnasiet Kristianstad",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5565755500"
+    },
+    {
+      "Skolenhetskod": "71649789",
+      "Skolenhetsnamn": "Christian 4:s Gymnasium 3",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "72153562",
+      "Skolenhetsnamn": "Lingenäs grundsärskola 2",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "72491525",
+      "Skolenhetsnamn": "Kristianstads Montessoriskola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5560354309"
+    },
+    {
+      "Skolenhetskod": "73063662",
+      "Skolenhetsnamn": "Christian 4:s Gymnasium ES",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "73547170",
+      "Skolenhetsnamn": "Hammars grundsärskola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "73567152",
+      "Skolenhetsnamn": "Wendesgymnasiet FT, VF",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "73944169",
+      "Skolenhetsnamn": "Söderportgymnasiet HU, SA",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "73972306",
+      "Skolenhetsnamn": "Önnestads folkhögskola SFI",
+      "Kommunkod": "1290",
+      "PeOrgNr": "8382004730"
+    },
+    {
+      "Skolenhetskod": "74855089",
+      "Skolenhetsnamn": "Hammars skola F",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "75922665",
+      "Skolenhetsnamn": "Väskolan MH",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "75994251",
+      "Skolenhetsnamn": "Tollarps skola L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "76065130",
+      "Skolenhetsnamn": "Gamlegårdskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "76170779",
+      "Skolenhetsnamn": "Gamlegårdskolan M",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "77781473",
+      "Skolenhetsnamn": "SFI 2",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "79166834",
+      "Skolenhetsnamn": "Köpinge skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "80729088",
+      "Skolenhetsnamn": "Ro integrerade särskoleelever",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "80871896",
+      "Skolenhetsnamn": "Fröknegårdskolan H1",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "81171073",
+      "Skolenhetsnamn": "Degebergaskolan F-2",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "81394447",
+      "Skolenhetsnamn": "Vuxenutbildningen GrVux, GyVux, GySär",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "81452013",
+      "Skolenhetsnamn": "Axonaskolan i Tollarp",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5565937868"
+    },
+    {
+      "Skolenhetskod": "81692574",
+      "Skolenhetsnamn": "Norretulls grundsärskola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "82896913",
+      "Skolenhetsnamn": "Linderöds skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "83703560",
+      "Skolenhetsnamn": "Fröknegårdens särskola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "84359849",
+      "Skolenhetsnamn": "Lingenässkolan L2",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "84589157",
+      "Skolenhetsnamn": "Lingenäs grundsärskola 1",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "85014247",
+      "Skolenhetsnamn": "Academy of Retail and Business (ARB)",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5569863433"
+    },
+    {
+      "Skolenhetskod": "85853304",
+      "Skolenhetsnamn": "Sånnaskolan H",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "86473502",
+      "Skolenhetsnamn": "Praktiska Gymnasiet Kristianstad",
+      "Kommunkod": "1290",
+      "PeOrgNr": "5562575786"
+    },
+    {
+      "Skolenhetskod": "87034307",
+      "Skolenhetsnamn": "Österänggymnasiet NA, TE",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "87409256",
+      "Skolenhetsnamn": "Söderportgymnasiet AHADM, FGFOR, HOHAL, IAIND",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "88010789",
+      "Skolenhetsnamn": "Yngsjö skola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "88024354",
+      "Skolenhetsnamn": "Öllsjöskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "89142560",
+      "Skolenhetsnamn": "Ängsskolans särskola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "89769643",
+      "Skolenhetsnamn": "Villaskolan M",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "89875292",
+      "Skolenhetsnamn": "Villaskolan L",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "91577572",
+      "Skolenhetsnamn": "Central Insamlingsenhet Enskild verksamhet",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "93213951",
+      "Skolenhetsnamn": "Väglednings- och lärcentrum",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "93657965",
+      "Skolenhetsnamn": "Lingenässkolan M2",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "94455820",
+      "Skolenhetsnamn": "Söderportgymnasiet RG",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "94892893",
+      "Skolenhetsnamn": "Lingenässkolan M1",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "96306704",
+      "Skolenhetsnamn": "Furuboda folkhögskola",
+      "Kommunkod": "1290",
+      "PeOrgNr": "8382005281"
+    },
+    {
+      "Skolenhetskod": "97295152",
+      "Skolenhetsnamn": "Nosabyskolan Bild o form",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "97438636",
+      "Skolenhetsnamn": "Fröknegårdskolan H2",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "97596286",
+      "Skolenhetsnamn": "Milnergymnasiet BF, HV, VO",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "98239050",
+      "Skolenhetsnamn": "Söderportgymnasiet HA, IB, NA",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    },
+    {
+      "Skolenhetskod": "98284563",
+      "Skolenhetsnamn": "Nosabyskolan H",
+      "Kommunkod": "1290",
+      "PeOrgNr": "2120000951"
+    }
+  ]
+}

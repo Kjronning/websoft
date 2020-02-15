@@ -1,0 +1,78 @@
+{
+  "Uttagsdatum": "2020-02-05T19:12:45.1003958+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "19599583",
+      "Skolenhetsnamn": "Gymnasieutbildningen i Gagnef",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "36819574",
+      "Skolenhetsnamn": "Djuråsskolan F-9",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "39127609",
+      "Skolenhetsnamn": "Kyrkskolan",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "39921667",
+      "Skolenhetsnamn": "Björboskola",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "57504072",
+      "Skolenhetsnamn": "Vuxenutbildningen Gagnef",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "64837308",
+      "Skolenhetsnamn": "Bäsnaskola",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "66641627",
+      "Skolenhetsnamn": "Syrholnsskola",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "79683330",
+      "Skolenhetsnamn": "Djurmoskolan",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "92132436",
+      "Skolenhetsnamn": "Särskolan Skeppet",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "93894526",
+      "Skolenhetsnamn": "Vuxenutbildningen Gagnef/SFI",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "95610127",
+      "Skolenhetsnamn": "Mockfjärdsskolan",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    },
+    {
+      "Skolenhetskod": "95823345",
+      "Skolenhetsnamn": "Central Insamlingsenhet",
+      "Kommunkod": "2026",
+      "PeOrgNr": "2120002155"
+    }
+  ]
+}

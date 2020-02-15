@@ -1,0 +1,102 @@
+{
+  "Uttagsdatum": "2020-02-05T19:24:15.7240687+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10455110",
+      "Skolenhetsnamn": "Knippla skola",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "20144959",
+      "Skolenhetsnamn": "Hälsö skola",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "22044740",
+      "Skolenhetsnamn": "Rörö skola",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "30017561",
+      "Skolenhetsnamn": "Central Insamlingsenhet",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "36423290",
+      "Skolenhetsnamn": "Kompassenskolan",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "45441116",
+      "Skolenhetsnamn": "Särvux",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "46441044",
+      "Skolenhetsnamn": "Bergagårdsskolan",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "53126890",
+      "Skolenhetsnamn": "Fotö skola",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "65677988",
+      "Skolenhetsnamn": "Betelskolan",
+      "Kommunkod": "1407",
+      "PeOrgNr": "8024250972"
+    },
+    {
+      "Skolenhetskod": "70498449",
+      "Skolenhetsnamn": "Västergårdsskolan",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "74987592",
+      "Skolenhetsnamn": "Hedens skola F-6",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "77358716",
+      "Skolenhetsnamn": "Öckerö Seglande gymnasieskola",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "85862849",
+      "Skolenhetsnamn": "Brattebergsskolan 7-9",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "85969404",
+      "Skolenhetsnamn": "Brattebergsskolan F-6",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "90445270",
+      "Skolenhetsnamn": "Kommunala vuxenutbildningen",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    },
+    {
+      "Skolenhetskod": "92940771",
+      "Skolenhetsnamn": "Hedens skola 7-9",
+      "Kommunkod": "1407",
+      "PeOrgNr": "2120001280"
+    }
+  ]
+}

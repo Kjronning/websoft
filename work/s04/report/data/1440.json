@@ -1,0 +1,132 @@
+{
+  "Uttagsdatum": "2020-02-05T19:08:23.9011083+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "11043800",
+      "Skolenhetsnamn": "Bohusskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "12789480",
+      "Skolenhetsnamn": "Nolskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "16944234",
+      "Skolenhetsnamn": "Kyrkbyskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "17221836",
+      "Skolenhetsnamn": "Ale gymnasium",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "22564015",
+      "Skolenhetsnamn": "Nödingeskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "22785543",
+      "Skolenhetsnamn": "Lärcentrum komvux",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "48529699",
+      "Skolenhetsnamn": "Aroseniusskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "52988991",
+      "Skolenhetsnamn": "Madenskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "54807007",
+      "Skolenhetsnamn": "Himlaskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "58798062",
+      "Skolenhetsnamn": "Kronaskolan 4-6",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "59239104",
+      "Skolenhetsnamn": "Kronaskolan F-3",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "61084420",
+      "Skolenhetsnamn": "Da Vinciskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "69488959",
+      "Skolenhetsnamn": "Grundsärskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "71387206",
+      "Skolenhetsnamn": "Ahlafors Fria skola",
+      "Kommunkod": "1440",
+      "PeOrgNr": "7696142343"
+    },
+    {
+      "Skolenhetskod": "72616393",
+      "Skolenhetsnamn": "Alboskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "77239517",
+      "Skolenhetsnamn": "Modersmålsenheten",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "81439850",
+      "Skolenhetsnamn": "Surteskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "85804445",
+      "Skolenhetsnamn": "Lärcentrum komvux, SFI",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "93221031",
+      "Skolenhetsnamn": "Lärlingsgymnasiet i Ale",
+      "Kommunkod": "1440",
+      "PeOrgNr": "5567628176"
+    },
+    {
+      "Skolenhetskod": "96645602",
+      "Skolenhetsnamn": "Centrala stödenheten",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    },
+    {
+      "Skolenhetskod": "97093265",
+      "Skolenhetsnamn": "Garnvindeskolan",
+      "Kommunkod": "1440",
+      "PeOrgNr": "2120001439"
+    }
+  ]
+}

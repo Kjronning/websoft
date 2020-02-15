@@ -10,7 +10,6 @@ router.get("/", (req, res) => {
     let data = {};
 
     data.date = new Date();
-
     res.render("today", data);
 });
 

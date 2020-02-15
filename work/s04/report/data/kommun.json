@@ -1,0 +1,94 @@
+{
+  "Uttagsdatum": "2020-01-29T06:22:17.1366997+01:00",
+  "Fotnot": "",
+  "Kommuner": [
+    {
+      "Kommunkod": "1440",
+      "Namn": "Ale"
+    },
+    {
+      "Kommunkod": "1438",
+      "Namn": "Dals-Ed"
+    },
+    {
+      "Kommunkod": "1730",
+      "Namn": "Eda"
+    },
+    {
+      "Kommunkod": "1982",
+      "Namn": "Fagersta"
+    },
+    {
+      "Kommunkod": "2026",
+      "Namn": "Gagnef"
+    },
+    {
+      "Kommunkod": "0643",
+      "Namn": "Habo"
+    },
+    {
+      "Kommunkod": "2510",
+      "Namn": "Jokkmokk"
+    },
+    {
+      "Kommunkod": "1290",
+      "Namn": "Kristianstad"
+    },
+    {
+      "Kommunkod": "1381",
+      "Namn": "Laholm"
+    },
+    {
+      "Kommunkod": "1280",
+      "Namn": "Malmö"
+    },
+    {
+      "Kommunkod": "0182",
+      "Namn": "Nacka"
+    },
+    {
+      "Kommunkod": "2101",
+      "Namn": "Ockelbo"
+    },
+    {
+      "Kommunkod": "2521",
+      "Namn": "Pajala"
+    },
+    {
+      "Kommunkod": "1081",
+      "Namn": "Ronneby"
+    },
+    {
+      "Kommunkod": "1981",
+      "Namn": "Sala"
+    },
+    {
+      "Kommunkod": "1435",
+      "Namn": "Tanum"
+    },
+    {
+      "Kommunkod": "1485",
+      "Namn": "Uddevalla"
+    },
+    {
+      "Kommunkod": "0584",
+      "Namn": "Vadstena"
+    },
+    {
+      "Kommunkod": "0512",
+      "Namn": "Ydre"
+    },
+    {
+      "Kommunkod": "1492",
+      "Namn": "Åmål"
+    },
+    {
+      "Kommunkod": "0765",
+      "Namn": "Älmhult"
+    },
+    {
+      "Kommunkod": "1407",
+      "Namn": "Öckerö"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Uttagsdatum": "2020-02-05T19:10:16.8704623+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "19464342",
+      "Skolenhetsnamn": "Strömkullegymnasiet",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    },
+    {
+      "Skolenhetskod": "28484259",
+      "Skolenhetsnamn": "Bengtsgården",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    },
+    {
+      "Skolenhetskod": "46016643",
+      "Skolenhetsnamn": "Bäckeskolan",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    },
+    {
+      "Skolenhetskod": "61470982",
+      "Skolenhetsnamn": "Central Insamlingsenhet Kommunal verksamhet",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    },
+    {
+      "Skolenhetskod": "67131031",
+      "Skolenhetsnamn": "Vuxenutbildningen/särvux",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    },
+    {
+      "Skolenhetskod": "67769016",
+      "Skolenhetsnamn": "Vuxenutbildningen i Bengtsfors",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    },
+    {
+      "Skolenhetskod": "74375780",
+      "Skolenhetsnamn": "Vuxenutbildningen/SFI",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    },
+    {
+      "Skolenhetskod": "89639468",
+      "Skolenhetsnamn": "Franserudsskolan",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    },
+    {
+      "Skolenhetskod": "95530848",
+      "Skolenhetsnamn": "Ekhagsskolan",
+      "Kommunkod": "1460",
+      "PeOrgNr": "2120001470"
+    }
+  ]
+}

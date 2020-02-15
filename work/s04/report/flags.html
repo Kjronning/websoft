@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>flags</title>
+    <link rel="stylesheet" href="css/flags.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/variables.css">
+</head>
+<body><header>
+    <nav>
+        <ul class="nav_list">
+            <li class="nav_item">
+                <a href="me.html">Me</a>
+            </li>
+            <li class="nav_item">
+                <a href="report.html">Report</a>
+            </li>
+            <li class="nav_item">
+                <a href="about.html">About</a>
+            </li>
+            <li class="nav_item">
+                <a href="schools.html">Schools</a>
+            </li>
+            <li class="nav_item">
+                <a href="flags.html">Flags</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<div class="main">
+<div class="container">
+    <div class="row">
+        <span>Chile</span>
+        <div class="checkbox">
+            <input type="checkbox" name="checkbox" id="chile" value="chile" checked/>
+            <label for="chile"></label>
+        </div>
+    </div>
+    <div class="row">
+        <span>Sweden</span>
+        <div class="checkbox">
+            <input type="checkbox" name="checkbox" id="sweden" value="sweden"/>
+            <label for="sweden"></label>
+        </div>
+    </div>
+    <div class="row">
+        <span>Scotland</span>
+        <div class="checkbox">
+            <input type="checkbox" name="checkbox" id="scotland" value="scotland"/>
+            <label for="scotland"></label>
+        </div>
+    </div>
+</div>
+
+<div class="flag-container">
+        <div id="chile-flag"  class="flag"></div>
+        <div id="sweden-flag" class="flag" hidden></div>
+        <div id="scotland-flag" class="flag" hidden></div>
+</div>
+</div>
+</body>
+<script src="js/flags.js"></script>
+<script src="js/duck.js"></script>
+</html>

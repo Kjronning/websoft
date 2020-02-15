@@ -1,0 +1,54 @@
+{
+  "Uttagsdatum": "2020-02-05T19:11:28.0142561+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "10200794",
+      "Skolenhetsnamn": "Eda gymnasieskola",
+      "Kommunkod": "1730",
+      "PeOrgNr": "2120001769"
+    },
+    {
+      "Skolenhetskod": "28042382",
+      "Skolenhetsnamn": "Gärdesskolan",
+      "Kommunkod": "1730",
+      "PeOrgNr": "2120001769"
+    },
+    {
+      "Skolenhetskod": "30777960",
+      "Skolenhetsnamn": "Kommunal vuxenutbildning",
+      "Kommunkod": "1730",
+      "PeOrgNr": "2120001769"
+    },
+    {
+      "Skolenhetskod": "34489166",
+      "Skolenhetsnamn": "Eda gymnasieskola/SFI",
+      "Kommunkod": "1730",
+      "PeOrgNr": "2120001769"
+    },
+    {
+      "Skolenhetskod": "48315891",
+      "Skolenhetsnamn": "Adolfsfors skola",
+      "Kommunkod": "1730",
+      "PeOrgNr": "2120001769"
+    },
+    {
+      "Skolenhetskod": "55674136",
+      "Skolenhetsnamn": "Hierneskolan F-9",
+      "Kommunkod": "1730",
+      "PeOrgNr": "2120001769"
+    },
+    {
+      "Skolenhetskod": "69352527",
+      "Skolenhetsnamn": "Gunnarsbyskolan F-9",
+      "Kommunkod": "1730",
+      "PeOrgNr": "2120001769"
+    },
+    {
+      "Skolenhetskod": "96036089",
+      "Skolenhetsnamn": "Gunnerud skola",
+      "Kommunkod": "1730",
+      "PeOrgNr": "2120001769"
+    }
+  ]
+}

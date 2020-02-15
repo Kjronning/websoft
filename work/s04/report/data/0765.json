@@ -1,0 +1,156 @@
+{
+  "Uttagsdatum": "2020-02-05T19:23:29.2450508+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "13975760",
+      "Skolenhetsnamn": "Haganässkolan vuxenutbildning-SFI",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "19901289",
+      "Skolenhetsnamn": "Elmeskolan",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "27479345",
+      "Skolenhetsnamn": "Ryfors skola",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "28837069",
+      "Skolenhetsnamn": "Virestads Friskola",
+      "Kommunkod": "0765",
+      "PeOrgNr": "7696194153"
+    },
+    {
+      "Skolenhetskod": "29959232",
+      "Skolenhetsnamn": "Gemöskolan",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "30503822",
+      "Skolenhetsnamn": "KLöxhultsskolan 1",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "30539167",
+      "Skolenhetsnamn": "Haganässkolan vuxenutb./särvux",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "39997144",
+      "Skolenhetsnamn": "Resursverksamheter",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "41634090",
+      "Skolenhetsnamn": "Haganässkolan vuxenutbildning",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "43289789",
+      "Skolenhetsnamn": "Klöxhultsskolan 1",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "44047778",
+      "Skolenhetsnamn": "Klöxhultsskolan 2",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "53191534",
+      "Skolenhetsnamn": "Linnéskolan 1",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "56811236",
+      "Skolenhetsnamn": "Grundsärskola",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "57408646",
+      "Skolenhetsnamn": "Bråthults Friskola",
+      "Kommunkod": "0765",
+      "PeOrgNr": "7696194153"
+    },
+    {
+      "Skolenhetskod": "60286462",
+      "Skolenhetsnamn": "Älmhults Montessoriskola",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "63124979",
+      "Skolenhetsnamn": "Haganässkolan 3",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "64505955",
+      "Skolenhetsnamn": "The Intern. School of Älmhult",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "66184918",
+      "Skolenhetsnamn": "Linnéskolan 2",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "67058407",
+      "Skolenhetsnamn": "Haganässkolan2",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "67422309",
+      "Skolenhetsnamn": "Haganässkolan 1",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "71090476",
+      "Skolenhetsnamn": "Pjätteryds skola",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "73255943",
+      "Skolenhetsnamn": "Liatorps skola",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "75599398",
+      "Skolenhetsnamn": "Skolhälsovård",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    },
+    {
+      "Skolenhetskod": "84756527",
+      "Skolenhetsnamn": "Thoren Framtid i Älmhult",
+      "Kommunkod": "0765",
+      "PeOrgNr": "5567497051"
+    },
+    {
+      "Skolenhetskod": "93625542",
+      "Skolenhetsnamn": "Diö skola",
+      "Kommunkod": "0765",
+      "PeOrgNr": "2120000647"
+    }
+  ]
+}

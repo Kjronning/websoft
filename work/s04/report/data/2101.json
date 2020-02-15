@@ -1,0 +1,42 @@
+{
+  "Uttagsdatum": "2020-02-05T19:17:25.8354171+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "40000547",
+      "Skolenhetsnamn": "Perslundaskolan",
+      "Kommunkod": "2101",
+      "PeOrgNr": "2120002288"
+    },
+    {
+      "Skolenhetskod": "54096978",
+      "Skolenhetsnamn": "Gäverängeskolan",
+      "Kommunkod": "2101",
+      "PeOrgNr": "2120002288"
+    },
+    {
+      "Skolenhetskod": "65270641",
+      "Skolenhetsnamn": "Åbyggeby skola",
+      "Kommunkod": "2101",
+      "PeOrgNr": "2120002288"
+    },
+    {
+      "Skolenhetskod": "75865591",
+      "Skolenhetsnamn": "Central Insamlingsenhet",
+      "Kommunkod": "2101",
+      "PeOrgNr": "2120002288"
+    },
+    {
+      "Skolenhetskod": "88064376",
+      "Skolenhetsnamn": "Vuxenutbildningen/IM",
+      "Kommunkod": "2101",
+      "PeOrgNr": "2120002288"
+    },
+    {
+      "Skolenhetskod": "90631891",
+      "Skolenhetsnamn": "Rabo skola",
+      "Kommunkod": "2101",
+      "PeOrgNr": "2120002288"
+    }
+  ]
+}

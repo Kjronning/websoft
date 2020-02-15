@@ -1,0 +1,54 @@
+{
+  "Uttagsdatum": "2020-02-05T19:10:58.2830071+01:00",
+  "Fotnot": "",
+  "Skolenheter": [
+    {
+      "Skolenhetskod": "11963126",
+      "Skolenhetsnamn": "Utsikten, Dals-Eds gymnasiesärskola",
+      "Kommunkod": "1438",
+      "PeOrgNr": "2120001413"
+    },
+    {
+      "Skolenhetskod": "23136002",
+      "Skolenhetsnamn": "Komvux, särvux",
+      "Kommunkod": "1438",
+      "PeOrgNr": "2120001413"
+    },
+    {
+      "Skolenhetskod": "59612371",
+      "Skolenhetsnamn": "Komvux SFI Dals-Eds utv.center",
+      "Kommunkod": "1438",
+      "PeOrgNr": "2120001413"
+    },
+    {
+      "Skolenhetskod": "62394711",
+      "Skolenhetsnamn": "Snörrumskolan",
+      "Kommunkod": "1438",
+      "PeOrgNr": "2120001413"
+    },
+    {
+      "Skolenhetskod": "65725141",
+      "Skolenhetsnamn": "Komvux Dals-Eds utv.center",
+      "Kommunkod": "1438",
+      "PeOrgNr": "2120001413"
+    },
+    {
+      "Skolenhetskod": "75316441",
+      "Skolenhetsnamn": "Utsikten Grundsärskola",
+      "Kommunkod": "1438",
+      "PeOrgNr": "2120001413"
+    },
+    {
+      "Skolenhetskod": "88573795",
+      "Skolenhetsnamn": "Utsikten, Dals-Eds gymnasium",
+      "Kommunkod": "1438",
+      "PeOrgNr": "2120001413"
+    },
+    {
+      "Skolenhetskod": "93081338",
+      "Skolenhetsnamn": "Hagaskolan",
+      "Kommunkod": "1438",
+      "PeOrgNr": "2120001413"
+    }
+  ]
+}
