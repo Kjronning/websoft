@@ -17,7 +17,11 @@ const sortNumbers = (numbers) => {
     });
 };
 
-export default (length, floor, ceiling) => {
+const getWinningNumbers =  (length, floor, ceiling) => {
     let winningNumbers = createWinningNumbers(length, floor, ceiling);
     return sortNumbers(winningNumbers);
+};
+
+exports.generate_JSON = function(length,floor,ceiling) {
+    return getWinningNumbers(length,floor,ceiling);
 };
