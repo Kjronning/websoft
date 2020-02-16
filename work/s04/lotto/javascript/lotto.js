@@ -1,24 +1,21 @@
+import {getWinningNumbers} from "./lotto_generator.js";
+
 (function(){
     let selectable_container = document.getElementById("container-selectable");
-    let result_container = document.getElementById("container-result");
+    let results_container = document.getElementById("container-result");
+    let results_button = document.getElementById("results-button");
 
-    function createSelectableNode() {
-        let node = document.createElement("select");
-        node.classList.add("selectable");
-        let option;
-        for (let i=1;i<=49;i++){
-            option = document.createElement('option');
-            option.value = i.toString();
-            option.text = i.toString();
-            node.appendChild(option);
-        }
+    function createResultNode(number) {
+        let node = document.createElement('div');
+        node.classList.add('result');
+        node.innerHTML = number;
         return node;
     }
 
-    for (let i=0;i<6;i++){
-        selectable_container.appendChild(createSelectableNode());
-    }
-
-
-
+    results_button.addEventListener("click", () => {
+        results_container.innerHTML = "";
+        getWinningNumbers(7,1,35).forEach(number => {
+            results_container.appendChild(createResultNode(number));
+        });
+    });
 }());

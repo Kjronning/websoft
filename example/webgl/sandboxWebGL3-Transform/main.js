@@ -30,13 +30,13 @@ window.onload = function() {
 
 
 
-    // Look up vertex data
+    // Look up vertex lotto-json
     var a_Position = gl.getAttribLocation(program, "a_Position");
     var u_Transform = gl.getUniformLocation(program, "u_Transform");
 
 
 
-    // Lookup fragment data
+    // Lookup fragment lotto-json
     var u_FragColor = gl.getUniformLocation(program, "u_FragColor");
 
 
@@ -50,8 +50,8 @@ window.onload = function() {
 
 
     // Set Geometry
-    //var data = setGeometrySquareHalf(gl);
-    //var data = setGeometrySquareFull(gl);
+    //var lotto-json = setGeometrySquareHalf(gl);
+    //var lotto-json = setGeometrySquareFull(gl);
     var data = setGeometryTriangle(gl);
 
 
@@ -120,7 +120,7 @@ window.onload = function() {
  */
 /*
 function setGeometrySquareFull(gl) {
-    var data = {
+    var lotto-json = {
         n: 6,
         mode: gl.TRIANGLES
     };
@@ -138,7 +138,7 @@ function setGeometrySquareFull(gl) {
        gl.STATIC_DRAW
    );
 
-   return data;
+   return lotto-json;
 }*/
 
 
@@ -148,7 +148,7 @@ function setGeometrySquareFull(gl) {
  */
 /*
 function setGeometrySquareHalf(gl) {
-    var data = {
+    var lotto-json = {
         n: 6,
         mode: gl.TRIANGLES
     };
@@ -166,7 +166,7 @@ function setGeometrySquareHalf(gl) {
        gl.STATIC_DRAW
    );
 
-  return data;
+  return lotto-json;
 }*/
 
 

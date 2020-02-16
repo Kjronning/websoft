@@ -17,7 +17,7 @@ var app = {};
  * Prepare all code blocks for syntax highlightning.
  */
 app.initCodeBlocks = function() {
-    var elements = document.querySelectorAll('[data-role="code"]');
+    var elements = document.querySelectorAll('[lotto-json-role="code"]');
 
     for (var i = 0; i < elements.length; ++i) {
       var item = elements[i],
@@ -37,7 +37,7 @@ app.initCodeBlocks = function() {
  * Prepare all code blocks for syntax highlightning.
  */
 app.loadCodeBlocksIntoSlide = function() {
-    var elements = document.querySelectorAll('[data-code]');
+    var elements = document.querySelectorAll('[lotto-json-code]');
 
     for (var i = 0; i < elements.length; ++i) {
         var item = elements[i],
@@ -53,7 +53,7 @@ app.loadCodeBlocksIntoSlide = function() {
  * Prepare all Markdown blocks.
  */
 app.initMarkdown = function() {
-    var elements = document.querySelectorAll('[data-markdown]'),
+    var elements = document.querySelectorAll('[lotto-json-markdown]'),
         converter = new showdown.Converter({tables: true});
 
     for (var i = 0; i < elements.length; ++i) {
@@ -196,7 +196,7 @@ app.config = function(controller) {
  * Model
  */
 app.slideList = function() {
-    return document.querySelectorAll('[data-role="slide"]');
+    return document.querySelectorAll('[lotto-json-role="slide"]');
 };
 
 

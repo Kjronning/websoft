@@ -37,14 +37,14 @@ window.onload = function() {
 
 
 
-    // Look up vertex data
+    // Look up vertex lotto-json
     var a_Position      = gl.getAttribLocation(program, "a_Position");
     var a_TexCoord      = gl.getAttribLocation(program, "a_TexCoord");
     var u_ModelMatrix   = gl.getUniformLocation(program, "u_ModelMatrix");
 
 
 
-    // Lookup fragment data
+    // Lookup fragment lotto-json
     var u_Sampler0 = gl.getUniformLocation(program, 'u_Sampler0');
     var u_Sampler1 = gl.getUniformLocation(program, 'u_Sampler1');
 
@@ -61,7 +61,7 @@ window.onload = function() {
     gl.vertexAttribPointer(a_TexCoord, 2, gl.FLOAT, false, data.fsize * 4, data.fsize * 2);
     gl.enableVertexAttribArray(a_TexCoord);
 
-    // Write data into the buffer object
+    // Write lotto-json into the buffer object
     gl.bufferData(gl.ARRAY_BUFFER, data.vertex, data.usage);
 
 

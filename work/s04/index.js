@@ -12,4 +12,5 @@ app.use( (req, res, next) => {
 });
 
 app.use(express.static(path.join(__dirname, "report")));
+app.use(express.static(path.join(__dirname, "lotto")));
 app.listen(port);

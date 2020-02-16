@@ -1,0 +1,15 @@
+.container-number{
+    background-color: black;
+    width: 10px;
+    height: 10px;
+}
+.result{
+    display: table-cell;
+    background-color: lightgray;
+    color: darkred;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    border: black 1px solid;
+}

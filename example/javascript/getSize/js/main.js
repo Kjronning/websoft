@@ -53,7 +53,7 @@
     divSize.posTop + 'px';
 
     /**
-     * Create the first div, pass it to getSize(..) and print out the data
+     * Create the first div, pass it to getSize(..) and print out the lotto-json
      **/
     var firstDiv = createDiv(),
         spanOne = document.createElement('span');
@@ -71,7 +71,7 @@
     content.appendChild(spanOne);
 
     /**
-     * Create the second div, pass it to getSize(..) and print out the data
+     * Create the second div, pass it to getSize(..) and print out the lotto-json
      **/
     var secondDiv = createDiv(),
         spanTwo = document.createElement('span');
@@ -90,7 +90,7 @@
     content.appendChild(spanTwo);
 
     /**
-     * Create the third div, pass it to getSize(..) and print out the data
+     * Create the third div, pass it to getSize(..) and print out the lotto-json
      **/
     var thirdDiv = createDiv(),
         spanThree = document.createElement('span');
@@ -110,7 +110,7 @@
     content.appendChild(spanThree);
 
     /**
-     * Create the fourth div, pass it to getSize(..) and print out the data
+     * Create the fourth div, pass it to getSize(..) and print out the lotto-json
      **/
     var fourthDiv = createDiv(),
         spanFour = document.createElement('span');

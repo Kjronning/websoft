@@ -1,7 +1,7 @@
 (function(){
         const getFetchUrl = function(municipalityCode){
             //return municipalityCode === "kommun" ? fetchBaseUrl : fetchBaseUrl+municipalityCode; //Uncomment this line when deploying to fetch from the API
-            return 'data/'+municipalityCode+'.json'; //comment this line when deploying to fetch from the API
+            return 'lotto-json/'+municipalityCode+'.json'; //comment this line when deploying to fetch from the API
         };
 
         const fetchMunicipalities = function(){
