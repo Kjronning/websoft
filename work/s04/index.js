@@ -17,21 +17,27 @@ app.use(express.static(path.join(__dirname, "lotto")));
 
 app.get("/lotto-json", (req, res) => {
     let winnerArray = lotto_json_generator.generate_JSON(7,1,35);
-    let query = (req.query.row).split(",");
+    let query = req.query.row.split(",");
+    let queryArray = [];
+    query.forEach(number => {
+       queryArray.push(parseInt(number));
+    });
+    console.log(winnerArray);
+    console.log(queryArray);
     let response = "";
     let correct_guesses = [];
-    if(query.length !== 7){
+    if(queryArray.length !== 7){
         response = "query must be seven numbers!";
     }else{
-        query.forEach(number => {
+        queryArray.forEach(number => {
             winnerArray.forEach(winner => {
                 if(number == winner)
                     correct_guesses.push(number);
             })
         });
         response = `${correct_guesses.length} correct guesses. <br>
-        Your numbers: ${query.toString()} <br>
-        Winning numbers: ${winnerArray}`
+        Your numbers: ${createAndFillTable(queryArray)} <br>
+        Winning numbers: ${createAndFillTable(winnerArray)}`
     }
     res.send(response);
 });
@@ -47,3 +53,25 @@ app.listen(port, () => {
         }
     });
 });
+
+const createAndFillTable = function(number_array){
+  let table_string = `<table style="width: 150px; height: 150px; border: black solid 1px;">`;
+  let rows = 5;
+  let columns = 7;
+  for(let i=1;i<=rows;i++){
+      table_string = (`${table_string}<tr style="text-align: center;">`);
+      for(let j=1;j<=columns;j++){
+          let currentNumber = columns*(i-1)+j;
+          if(number_array.includes(currentNumber)){
+              table_string = (`${table_string}<td style="background-color: navy; color: white;">`);
+          }else{
+            table_string = (`${table_string}<td>`);
+          }
+          table_string = (`${table_string}${currentNumber.toString()}`);
+          table_string = (`${table_string}</td>`);
+      }
+      table_string = (`${table_string}</tr>`);
+  }
+    table_string = (`${table_string}</table>`);
+    return table_string;
+};
