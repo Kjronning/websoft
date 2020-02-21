@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>This is me</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/variables.css">
+</head>
+<body>
+<header>
+    <nav>
+        <ul class="nav_list">
+            <li class="nav_item">
+                <a href="me.html">Me</a>
+            </li>
+            <li class="nav_item">
+                <a href="report.html">Report</a>
+            </li>
+            <li class="nav_item">
+                <a href="about.php">About</a>
+            </li>
+            <li class="nav_item">
+                <a href="schools.html">Schools</a>
+            </li>
+            <li class="nav_item">
+                <a href="flags.html">Flags</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<div class="main">
+<article>
+<h1>About me</h1>
+
+<p><img src="img/me.jpg" width="500" alt="Me on an image"></p>
+
+<p>I'm Joakim Rönning. I was born in Avesta, Sweden, but grew up in Concepción, Chile. I've been into computers since I was but a wee boy. As an adult I've done mostly studying; I studied aerospace engineering (not finished), gastronomy (finished), and now software engineering (finishing). I've worked in restaurants, events and bakeries. Now I'm in Sweden ready for the next step in my life.</p>
+
+<p>I learned programming in high school, doing C++. I've come pretty far, finally forgetting everything I learned there.</p>
+
+<p>I recently got into powerlifting, and even though my lifts are quite light I have found myself really enjoying it.</p>
+
+<p>Catch me around</p>
+
+</article>
+
+<footer>
+    <hr>
+    <p>Something's a foot...er.</p>
+</footer>
+
+
+</div>
+</body>
+<script type="text/javascript" src="js/main.js"></script>
+<script src="js/duck.js"></script>
+</html>

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>About this site</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/variables.css">
+</head>
+
+<body>
+<header>
+    <nav>
+        <ul class="nav_list">
+            <li class="nav_item">
+                <a href="me.html">Me</a>
+            </li>
+            <li class="nav_item">
+                <a href="report.html">Report</a>
+            </li>
+            <li class="nav_item">
+                <a href="about.html">About</a>
+            </li>
+            <li class="nav_item">
+                <a href="schools.html">Schools</a>
+            </li>
+            <li class="nav_item">
+                <a href="flags.html">Flags</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<div class="main">
+<article>
+
+<h1>About this website</h1>
+
+<p>This website is part of the course websoft <a href="https://www.hkr.se/en/course/DA377B">DA377B</a>.</p>
+
+<p>In this course we will learn all about web development, and that's why we're creating a website.</p>
+
+    <p><img src="img/github.png" width="50" height="50" alt="github icon"/>
+        Checkout the course github repository <a href="https://github.com/Webbprogrammering/websoft/" target="_blank">here.</a><br/></p>
+    <p><img src="img/fork.png" width="50" height="50" alt="fork icon"/>
+        Also checkout my fork of the repository <a href="https://github.com/Kjronning/websoft" target="_blank">here.</a></p>
+
+</article>
+
+<footer>
+    <hr>
+    <p>Something's a foot...er.</p>
+</footer>
+</div>
+</body>
+<script type="text/javascript" src="js/main.js"></script>
+<script src="js/duck.js"></script>
+</html>
