@@ -1,38 +1,7 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>Report from the course sections</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="favicon.ico">
-    <link rel="stylesheet" href="css/report.css">
-    <link rel="stylesheet" href="css/variables.css">
-</head>
+<?php
+include '../view/header.php';
+?>
 
-<body>
-<header>
-    <nav>
-        <ul class="nav_list">
-            <li class="nav_item">
-                <a href="me.php">Me</a>
-            </li>
-            <li class="nav_item">
-                <a href="report.html">Report</a>
-            </li>
-            <li class="nav_item">
-                <a href="about.php">About</a>
-            </li>
-            <li class="nav_item">
-                <a href="schools.html">Schools</a>
-            </li>
-            <li class="nav_item">
-                <a href="flags.html">Flags</a>
-            </li>
-        </ul>
-    </nav>
-</header>
-
-<div class="main">
         <h1>A report from the course DA377B</h1>
     <button type="button" class="collapsible">S01</button>
     <div class="content">
@@ -180,17 +149,10 @@
         <p>Here is the text for this section.</p>
     </div>
 
-    <footer>
-        <hr>
-        <p>Provide a nice footer to your report.</p>
-    </footer>
 
- </div>
-
-
-<script type="text/javascript" src="js/main.js"></script>
-<script src="js/collapsible.js"></script>
-<script src="js/duck.js"></script>
-</body>
-</html>
-
+        <script type="text/javascript" src="js/main.js"></script>
+        <script src="js/collapsible.js"></script>
+        <script src="js/duck.js"></script>
+        <?php
+        include '../view/footer.php';
+        ?>

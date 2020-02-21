@@ -1,35 +1,7 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <title>This is me</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="favicon.ico">
-    <link rel="stylesheet" href="css/variables.css">
-</head>
-<body>
-<header>
-    <nav>
-        <ul class="nav_list">
-            <li class="nav_item">
-                <a href="me.html">Me</a>
-            </li>
-            <li class="nav_item">
-                <a href="report.html">Report</a>
-            </li>
-            <li class="nav_item">
-                <a href="about.php">About</a>
-            </li>
-            <li class="nav_item">
-                <a href="schools.html">Schools</a>
-            </li>
-            <li class="nav_item">
-                <a href="flags.html">Flags</a>
-            </li>
-        </ul>
-    </nav>
-</header>
-<div class="main">
+
+<?php
+include '../view/header.php';
+?>
 <article>
 <h1>About me</h1>
 
@@ -45,14 +17,8 @@
 
 </article>
 
-<footer>
-    <hr>
-    <p>Something's a foot...er.</p>
-</footer>
-
-
-</div>
-</body>
 <script type="text/javascript" src="js/main.js"></script>
 <script src="js/duck.js"></script>
-</html>
+<?php
+include '../view/footer.php';
+?>
