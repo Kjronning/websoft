@@ -5,9 +5,9 @@
 <head>
     <meta charset="utf-8">
     <title>This is me</title>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="favicon.ico">
-    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../css/variables.css">
 </head>
 <body>
 <header>
@@ -21,6 +21,9 @@
             </li>
             <li class="nav_item">
                 <a href="../php/about.php">About</a>
+            </li>
+            <li class="nav_item">
+                <a href="../php/websoftdatabase.php">Search</a>
             </li>
             <li class="nav_item">
                 <a href="../php/projects.php">Projects</a>

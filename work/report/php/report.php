@@ -1,6 +1,7 @@
 <?php
 include '../view/header.php';
 ?>
+    <link rel="stylesheet" href="../css/report.css">
 
         <h1>A report from the course DA377B</h1>
     <button type="button" class="collapsible">S01</button>
@@ -150,9 +151,7 @@ include '../view/header.php';
     </div>
 
 
-        <script type="text/javascript" src="js/main.js"></script>
-        <script src="js/collapsible.js"></script>
-        <script src="js/duck.js"></script>
+        <script src="../js/collapsible.js"></script>
         <?php
         include '../view/footer.php';
         ?>
