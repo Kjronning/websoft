@@ -14,19 +14,19 @@
     <nav>
         <ul class="nav_list">
             <li class="nav_item">
-                <a href="../php/me.php">Me</a>
+                <a href="me.php">Me</a>
             </li>
             <li class="nav_item">
-                <a href="../php/report.php">Report</a>
+                <a href="report.php">Report</a>
             </li>
             <li class="nav_item">
-                <a href="../php/about.php">About</a>
+                <a href="about.php">About</a>
             </li>
             <li class="nav_item">
-                <a href="../php/websoftdatabase.php">Search</a>
+                <a href="websoftdatabase.php">Search</a>
             </li>
             <li class="nav_item">
-                <a href="../php/projects.php">Projects</a>
+                <a href="projects.php">Projects</a>
             </li>
         </ul>
     </nav>
