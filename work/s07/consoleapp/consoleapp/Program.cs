@@ -21,7 +21,7 @@ namespace consoleapp
                         Console.WriteLine("Closed!");
                         break;
                     case "3":
-                        Console.WriteLine("Exiting...");
+                        Console.WriteLine("Exiting...!");
                         Environment.Exit(0);
                         break;
                     default:
