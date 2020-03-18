@@ -5,15 +5,25 @@ using webapp.Models;
 
 public class JSONFileReader
 {
+    static string JSONPath = "../../dotnet/data/account.json";
+
     public IEnumerable<Account> GetAccounts()
     {
         
-            string JSONPath = "../../dotnet/data/account.json";
             using (StreamReader r = new StreamReader(JSONPath))
             {
                 string json = r.ReadToEnd();
                 return JsonConvert.DeserializeObject<List<Account>>(json);
             }
         
+    }
+
+    public void SaveAccounts(IEnumerable<Account> accounts)
+    {
+        using (StreamWriter w = new StreamWriter(JSONPath))
+        {
+            string json = JsonConvert.SerializeObject(accounts);
+            w.Write(json);
+        }
     }
 }

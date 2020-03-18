@@ -1,0 +1,41 @@
+﻿@page
+@model Webapp.Pages.MoveModel
+@{
+	ViewData["Title"] = "Move";
+}
+
+<h1>Move</h1>
+<form id="move_form" action="/api/move" method="post">
+
+
+    <table>
+        <thead>
+            <tr><th>Outgoing Account</th><th>Incoming Account</th><th>Amount</th></tr>
+        </thead>
+            <tr>
+                <th>
+
+                    <select asp-for="outgoing" form="move_form">
+                        @foreach (var account in Model.AccountService.GetAccounts())
+                        {
+
+                            <option value="@account.Number">@account.Number</option>
+						}
+                        </select>
+                </th>
+                <th>
+                    <select asp-for="incoming" form="move_form">
+                        @foreach (var account in Model.AccountService.GetAccounts())
+                        {
+
+                            <option value="@account.Number">@account.Number</option>
+						}
+                        </select>
+                </th>
+                <th>
+                    <input asp-for="amount" type="number" value="2" />
+                </th>
+            </tr>
+        </table>
+    <input type="submit"/>
+</form>
