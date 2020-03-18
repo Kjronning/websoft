@@ -18,18 +18,16 @@ namespace Webapp.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post([FromForm]int outgoing,[FromForm] int incoming,[FromForm] int amount)
+        public IActionResult Post([FromForm]int outgoing, [FromForm] int incoming, [FromForm] int amount)
         {
-            List<Account> accounts = new List<Account>(AccountService.GetAccounts());
-            Console.WriteLine("outgoing: " + outgoing);
-            Console.WriteLine("incoming: " + incoming);
-            Console.WriteLine("amount: " + amount);
-            int outgoingIndex = accounts.FindIndex(account => account.Number == outgoing);
-            int incomingIndex = accounts.FindIndex(account => account.Number == incoming);
-            accounts[outgoingIndex].Balance -= amount;
-            accounts[incomingIndex].Balance += amount;
-            AccountService.SaveAccounts(accounts);
+            AccountService.Transfer(outgoing, incoming, amount);
+            return Redirect("https://localhost:44369/");
+        }
 
+        [HttpPut]
+        public IActionResult Put([FromBody]int outgoing, [FromBody] int incoming, [FromBody] int amount)
+        {
+            AccountService.Transfer(outgoing, incoming, amount);
             return Redirect("https://localhost:44369/");
         }
     }

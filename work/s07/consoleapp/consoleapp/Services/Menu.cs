@@ -110,6 +110,56 @@ namespace consoleapp.Services
                     break;
                 }
             });
+            options.Add("Create new account", () =>
+            {
+                while (true)
+                {
+                    int Number, Balance, Owner;
+                    string Label;
+                    string input;
+                    int value;
+                    Console.WriteLine("Enter Number, or enter to go back: ");
+                    input = Console.ReadLine();
+                    if (input == "")
+                        return;
+                    value = accountsService.ValidateIntInput(input);
+                    if(value == -1)
+                    {
+                        Console.WriteLine("Input incorrect.");
+                        continue;
+                    }
+                    Number = value;
+                    Console.WriteLine("Enter Balance, or enter to go back: ");
+                    input = Console.ReadLine();
+                    if (input == "")
+                        break;
+                    value = accountsService.ValidateIntInput(input);
+                    if (value == -1)
+                    {
+                        Console.WriteLine("Input incorrect.");
+                        continue;
+                    }
+                    Balance = value;
+                    Console.WriteLine("Enter Label, or enter to go back: ");
+                    input = Console.ReadLine();
+                    if (input == "")
+                        break;
+                    Label = input;
+                    Console.WriteLine("Enter Owner, or enter to go back: ");
+                    input = Console.ReadLine();
+                    if (input == "")
+                        break;
+                    value = accountsService.ValidateIntInput(input);
+                    if (value == -1)
+                    {
+                        Console.WriteLine("Input incorrect.");
+                        continue;
+                    }
+                    Owner = value;
+                    accountsService.CreateAccount(Number, Balance, Label, Owner);
+                    break;
+                }
+            });
             options.Add("exit", () =>
             {
                 Console.WriteLine("Exiting...!");

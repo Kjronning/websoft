@@ -13,6 +13,13 @@ namespace consoleapp.Services
             accounts = JSONFileService.GetAccounts();
         }
 
+        public void CreateAccount(int Number, int Balance, string Label, int Owner)
+        {
+            Account account = new Account(Number, Balance, Label, Owner);
+            accounts.Add(account);
+            JSONFileService.Save(accounts);
+        }
+
         public void MoveBalance(int outgoingAccountNumber, int incomingAccountNumber, int amount)
         {
             int outgoingIndex = GetAccountIndexByNumber(outgoingAccountNumber);
