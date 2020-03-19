@@ -1,0 +1,164 @@
+.flag-container {
+    height: 200px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.flag{
+    opacity: 1;
+    transition: opacity 500ms;
+}
+.flag:hover{
+    opacity: 0;
+}
+
+#chile-flag {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    background-color: white;
+    box-shadow: 1px 9px 20px #e0dcdc;
+}
+
+#chile-flag::before {
+    width: 120px;
+    height: 100px;
+    position: absolute;
+    content: "★";
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    background-color: blue;
+}
+
+#chile-flag::after {
+    position: absolute;
+    width: inherit;
+    height: 100px;
+    top: 100px;
+    left: 0;
+    content: "";
+    background-color: red;
+}
+
+
+#sweden-flag{
+    width:320px;
+    height:200px;
+    background-color:#005293;
+    position:relative;
+    box-shadow: 1px 9px 20px #e0dcdc;
+}
+#sweden-flag::before{
+    content:"";
+    position:absolute;
+    left:100px;
+    width:40px;
+    height:inherit;
+    background-color:#FECB00;
+}
+#sweden-flag::after{
+    content:"";
+    position:absolute;
+    top:80px;
+    width:inherit;
+    height:40px;
+    background-color:#FECB00;
+}
+
+#scotland-flag{
+    width: 333px;
+    height: 200px;
+    position: relative;
+    background-color: #0065BF;
+}
+#scotland-flag::before{
+    pointer-events: none;
+    --transform-x: 3.81;
+    --transform-y: 1.6;
+    display:block;
+    margin-top: auto;
+    margin-bottom: auto;
+    -webkit-transform:scale(var(--transform-x),var(--transform-y)); /* Safari and Chrome */
+    -moz-transform:scale(var(--transform-x),var(--transform-y)); /* Firefox */
+    -ms-transform:scale(var(--transform-x),var(--transform-y)); /* IE 9 */
+    -o-transform:scale(var(--transform-x),var(--transform-y)); /* Opera */
+    transform:scale(var(--transform-x),var(--transform-y)); /* W3C */
+    width: inherit;
+    height: inherit;
+    left: 0;
+    top: -50px;
+    position: absolute;
+    background-color: transparent;
+    font-size: 180px;
+    text-align: center;
+    color: white;
+    content: "☓";
+}
+
+.container {
+    position: relative;
+    border-radius: .5em;
+    color: var(--color-secondary);
+    width: 300px;
+}
+.container > .row {
+    padding: .7em 1.25em .7em 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.container > div span {
+    padding-right: 2em;
+    color: var(--text-dark);
+}
+.checkbox input {
+    display: none;
+}
+.checkbox input:checked + label {
+    background: var(--color-primary-variant);
+    opacity: 85%;
+}
+.checkbox input:checked + label:before {
+    -moz-transform: translateX(1.2em);
+    -webkit-transform: translateX(1.2em);
+    transform: translateX(1.2em);
+}
+.checkbox label {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-tap-highlight-color: transparent;
+    width: 2.4em;
+    height: 1.2em;
+    padding: .2em;
+    background: var(--color-primary);
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 1em;
+    -webkit-transition: background .1s ease;
+    transition: background .1s ease;
+}
+.checkbox label:before {
+    content: '';
+    display: block;
+    width: 1.2em;
+    height: 1.2em;
+    background: var(--background-light);
+    box-shadow: 3px 5px 20px -3px var(--color-primary-variant) 32%;
+    border-radius: 50%;
+    -webkit-transition: -webkit-transform .1s ease;
+    transition: -webkit-transform .1s ease;
+    transition: transform .1s ease, -webkit-transform .1s ease;
+}

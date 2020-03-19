@@ -1,0 +1,8 @@
+.duck{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background-size: 128px;
+    background-repeat: no-repeat;
+    background-image: url("../img/duck.png");
+}

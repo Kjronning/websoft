@@ -1,0 +1,63 @@
+html {
+    overflow-y: scroll;
+}
+
+body{
+    background-color: var(--background-light);
+    color: var(--text-dark);
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    position: absolute;
+}
+
+
+/*nav bar*/
+nav {
+    position: fixed;
+    width: 100%;
+    background-color: var(--color-primary);
+    align-items: end;
+}
+
+.nav_list {
+    text-align: end;
+}
+
+.nav_item {
+    display: inline-block;
+    margin-right: 20px;
+}
+.nav_item a {
+    display: inline-block;
+    color: var(--text-light);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    padding: 0.75em 1em;
+}
+
+.nav_item a:hover, a:focus{
+     background-color: var(--color-primary-variant);
+ }
+
+.main {
+    padding-top: 100px;
+    margin: auto;
+    background-color: var(--background-light);
+    display: table;
+    height: 100vh;
+    max-width: 50vw;
+}
+
+/*duck*/
+.duck{
+    position: absolute;
+    width: 128px;
+    height: 128px;
+    background-size: 128px;
+    background-repeat: no-repeat;
+    background-image: url("../img/duck.png");
+}
