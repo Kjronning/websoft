@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\work",
+    "\\work\\s07",
+    "\\work\\s07\\consoleapp",
+    "\\work\\s07\\consoleapp\\consoleapp",
+    "\\work\\s07\\dotnet",
+    "\\work\\s07\\dotnet\\webapp",
+    "\\work\\s07\\dotnet\\webapp\\Pages",
+    "\\work\\s07\\webapp",
+    "\\work\\s07\\webapp\\Webapp",
+    "\\work\\s07\\webapp\\Webapp\\Pages"
+  ],
+  "SelectedNode": "\\work\\s07\\webapp\\Webapp\\Pages\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
